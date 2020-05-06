@@ -1,0 +1,1164 @@
+﻿Log file open, 03/11/20 09:04:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.089900
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz, GPU: NVIDIA GeForce GT 710
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Engine.ini]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Engine.ini]
+[2020.03.11-00.04.27:919][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Engine.ini]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Engine.ini]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.11-00.04.27:919][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Engine.ini]
+[2020.03.11-00.04.27:919][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Engine.ini]
+[2020.03.11-00.04.27:922][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.11-00.04.27:922][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.11-00.04.27:923][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.11-00.04.27:923][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.11-00.04.27:923][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.11-00.04.27:927][  0]LogHAL: Display: Platform has ~ 16 GB [17133834240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.11-00.04.27:927][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.11-00.04.27:927][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-00.04.27:927][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2020.03.11-00.04.27:927][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2020.03.11-00.04.27:927][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-00.04.27:927][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.03.11-00.04.27:927][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-00.04.27:927][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.03.11-00.04.27:927][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.03.11-00.04.27:927][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.03.11-00.04.27:927][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.03.11-00.04.27:927][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2020.03.11-00.04.27:928][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.11-00.04.27:929][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.11-00.04.27:929][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.11-00.04.27:929][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Engine.ini]
+[2020.03.11-00.04.27:929][  0]LogInit: Computer: M16033
+[2020.03.11-00.04.27:929][  0]LogInit: User: student
+[2020.03.11-00.04.27:929][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.11-00.04.27:929][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.11-00.04.27:929][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.03.11-00.04.27:929][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.11-00.04.27:929][  0]LogMemory: Process Physical Memory: 100.51 MB used, 100.51 MB peak
+[2020.03.11-00.04.27:929][  0]LogMemory: Process Virtual Memory: 87.67 MB used, 87.67 MB peak
+[2020.03.11-00.04.27:929][  0]LogMemory: Physical Memory: 3533.62 MB used,  12806.48 MB free, 16340.10 MB total
+[2020.03.11-00.04.27:929][  0]LogMemory: Virtual Memory: 4643.61 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.03.11-00.04.27:932][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.11-00.04.27:953][  0]LogInit: Using OS detected language (ko-KR).
+[2020.03.11-00.04.27:953][  0]LogInit: Using OS detected locale (ko-KR).
+[2020.03.11-00.04.27:954][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2020.03.11-00.04.28:045][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.11-00.04.28:122][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.11-00.04.28:122][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.11-00.04.28:294][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.11-00.04.28:294][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.11-00.04.28:353][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 710' (Feature Level 11_0)
+[2020.03.11-00.04.28:353][  0]LogD3D11RHI:       984/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.11-00.04.28:356][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.11-00.04.28:356][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.11-00.04.28:356][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.11-00.04.28:362][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.11-00.04.28:362][  0]LogD3D11RHI:     GPU DeviceId: 0x128b (for the marketing name, search the web for "GPU Device Id")
+[2020.03.11-00.04.28:362][  0]LogWindows: EnumDisplayDevices:
+[2020.03.11-00.04.28:363][  0]LogWindows:    0. 'NVIDIA GeForce GT 710' (P:1 D:1)
+[2020.03.11-00.04.28:363][  0]LogWindows:    1. 'NVIDIA GeForce GT 710' (P:0 D:0)
+[2020.03.11-00.04.28:364][  0]LogWindows:    2. 'NVIDIA GeForce GT 710' (P:0 D:0)
+[2020.03.11-00.04.28:364][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.03.11-00.04.28:364][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 710
+[2020.03.11-00.04.28:364][  0]LogD3D11RHI:   Driver Version: 419.67 (internal:25.21.14.1967, unified:419.67)
+[2020.03.11-00.04.28:364][  0]LogD3D11RHI:      Driver Date: 3-17-2019
+[2020.03.11-00.04.28:364][  0]LogRHI: Texture pool is 689 MB (70% of 984 MB)
+[2020.03.11-00.04.28:403][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.11-00.04.28:421][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.03.11-00.04.28:734][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.11-00.04.28:744][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.11-00.04.28:754][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.11-00.04.28:764][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.11-00.04.28:807][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.11-00.04.28:833][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.11-00.04.28:850][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.11-00.04.28:860][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.11-00.04.28:865][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.11-00.04.28:955][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.11-00.04.28:955][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.11-00.04.28:955][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.11-00.04.28:955][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.11-00.04.28:955][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.11-00.04.28:955][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.11-00.04.28:955][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.11-00.04.28:955][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.11-00.04.28:955][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.11-00.04.28:955][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.11-00.04.28:955][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.11-00.04.28:955][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.11-00.04.28:955][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.11-00.04.28:955][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.11-00.04.28:955][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.11-00.04.28:955][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.11-00.04.28:955][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.11-00.04.28:955][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.11-00.04.28:957][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.11-00.04.28:978][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.11-00.04.28:978][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.11-00.04.28:994][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.11-00.04.28:994][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.11-00.04.29:002][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.11-00.04.29:010][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.11-00.04.29:018][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.11-00.04.29:028][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.11-00.04.29:056][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.11-00.04.29:056][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.11-00.04.29:056][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.11-00.04.29:066][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.11-00.04.29:121][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/student/Documents/Unreal Projects/MyGame/Intermediate/Shaders/WorkingDirectory/7808/).
+[2020.03.11-00.04.29:122][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/student/AppData/Local/Temp/UnrealShaderWorkingDir/AA2F9D0E4B10B61A0248D19B577EB371/'.
+[2020.03.11-00.04.29:124][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.11-00.04.29:124][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.11-00.04.29:124][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.11-00.04.29:780][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.11-00.04.29:834][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/student/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.03.11-00.04.29:834][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/student/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.03.11-00.04.29:834][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/student/Documents/Unreal Projects/MyGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.11-00.04.29:834][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.11-00.04.29:834][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/student/Documents/Unreal Projects/MyGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.11-00.04.29:834][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.11-00.04.29:849][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.11-00.04.29:849][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.11-00.04.29:849][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.11-00.04.29:850][  0]LogDerivedDataCache: Using Local data cache path C:/Users/student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.11-00.04.29:850][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.11-00.04.29:850][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.11-00.04.29:876][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.11-00.04.29:878][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.11-00.04.29:879][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.11-00.04.29:940][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.03.11-00.04.30:221][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.11-00.04.30:379][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.11-00.04.30:379][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.11-00.04.30:379][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.11-00.04.30:379][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.11-00.04.30:380][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.11-00.04.30:390][  0]LogNetVersion: MyGame 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 4240746401)
+[2020.03.11-00.04.32:450][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.570027 seconds
+[2020.03.11-00.04.32:458][  0]LogUObjectArray: 43447 objects as part of root set at end of initial load.
+[2020.03.11-00.04.32:458][  0]LogUObjectAllocator: 7549224 out of 0 bytes used by permanent object pool.
+[2020.03.11-00.04.32:458][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.11-00.04.33:631][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.11-00.04.33:634][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.11-00.04.33:702][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.03.11-00.04.33:702][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.03.11-00.04.33:703][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.03.11-00.04.33:704][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.03.11-00.04.33:880][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.11-00.04.33:956][  0]LogOcInput: OculusInput pre-init called
+[2020.03.11-00.04.33:963][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.11-00.04.33:963][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.11-00.04.34:040][  0]LogEngine: Initializing Engine...
+[2020.03.11-00.04.34:041][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.11-00.04.34:042][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.11-00.04.34:556][  0]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2020.03.11-00.04.34:556][  0]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2020.03.11-00.04.34:556][  0]LogUObjectGlobals: Warning: 'Font /Game/NewFont.NewFont' 오브젝트를 찾는 데 실패했습니다.
+[2020.03.11-00.04.34:559][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.11-00.04.34:574][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.11-00.04.34:594][  0]LogInit: No audio devices found!
+[2020.03.11-00.04.34:594][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.11-00.04.36:022][  0]LogDerivedDataCache: Saved boot cache 1.43s 73MB C:/Users/student/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.03.11-00.04.36:024][  0]LogInit: Texture streaming: Enabled
+[2020.03.11-00.04.36:044][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.11-00.04.36:044][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.11-00.04.36:046][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.11-00.04.36:096][  0]LogInit: Transaction tracking system initialized
+[2020.03.11-00.04.37:089][  0]BlueprintLog: New page: 에디터 로드
+[2020.03.11-00.04.37:545][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2020.03.11-00.04.38:609][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.11-00.04.38:609][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.11-00.04.38:814][  0]LogFileCache: Scanning file cache for directory 'C:/Users/student/Documents/Unreal Projects/MyGame/Content/' took 0.14s
+[2020.03.11-00.04.38:815][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.03.11-00.04.38:815][  0]Cmd: MAP LOAD FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.11-00.04.39:002][  0]LightingResults: New page: 라이팅 빌드
+[2020.03.11-00.04.39:005][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-00.04.39:006][  0]MapCheck: New page: 맵 체크
+[2020.03.11-00.04.39:006][  0]LightingResults: New page: 라이팅 빌드
+[2020.03.11-00.04.39:029][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.03.11-00.04.44:978][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.03.11-00.04.45:030][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.11-00.04.45:056][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.03.11-00.04.45:056][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.11-00.04.45:057][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.165ms.
+[2020.03.11-00.04.45:057][  0]LogFileHelpers: Loading map 'Minimal_Default' took 6.242
+[2020.03.11-00.04.45:670][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-00.04.45:691][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-00.04.45:700][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-00.04.45:710][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-00.04.45:822][  0]LogCollectionManager: Loaded 0 collections in 0.059553 seconds
+[2020.03.11-00.04.45:981][  0]LogFileCache: Scanning file cache for directory 'C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Collections/' took 0.00s
+[2020.03.11-00.04.45:981][  0]LogFileCache: Scanning file cache for directory 'C:/Users/student/Documents/Unreal Projects/MyGame/Content/Developers/student/Collections/' took 0.00s
+[2020.03.11-00.04.45:981][  0]LogFileCache: Scanning file cache for directory 'C:/Users/student/Documents/Unreal Projects/MyGame/Content/Collections/' took 0.00s
+[2020.03.11-00.04.45:981][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.03.11-00.04.46:034][  0]LogContentBrowser: Native class hierarchy populated in 0.0348 seconds. Added 2863 classes and 680 folders.
+[2020.03.11-00.04.46:131][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.11-00.04.47:503][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.03.11-00.04.47:578][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2020.03.11-00.04.47:881][  0]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.11-00.04.47:887][  0]LogSlate: Took 0.004122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2020.03.11-00.04.47:891][  0]LogSlate: Took 0.002796 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2020.03.11-00.04.47:892][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.11-00.04.47:917][  0]LogSlate: Took 0.020500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.11-00.04.48:374][  0]LogRenderer: Reallocating scene render targets to support 708x500 Format 9 NumSamples 1 (Frame:1).
+[2020.03.11-00.04.48:461][  0]LogSlate: Took 0.013054 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.11-00.04.48:558][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.11-00.04.48:559][  0]LogLoad: (Engine Initialization) Total time: 23.34 seconds
+[2020.03.11-00.04.48:559][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.11-00.04.48:685][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.03.11-00.04.49:224][  5]LogAssetRegistry: Asset discovery search completed in 19.2852 seconds
+[2020.03.11-00.04.49:228][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2020.03.11-00.04.49:228][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2020.03.11-00.04.49:586][ 45]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.11-00.04.52:658][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.11-00.04.58:872][962]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MY/5BP/BP_MyPlayer.BP_MyPlayer
+[2020.03.11-00.04.59:623][962]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.03.11-00.05.01:005][962]LogLinker: Warning: '{FileName}': 애셋 이름을 해석할 수 없습니다. 로드에 실패했습니다.
+[2020.03.11-00.05.01:484][962]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MY/6UMG/UMG_UHD.UMG_UHD
+[2020.03.11-00.05.02:069][962]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MY/6UMG/UMG_GameOver.UMG_GameOver
+[2020.03.11-00.05.02:819][962]LogSlate: Took 0.014529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.11-00.05.48:834][100]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={AB9EE9EF-41A0-FEE7-B550-2883F03C8489}
+[2020.03.11-00.09.01:823][933]LogSlate: Window 'UMG_GameOver' being destroyed
+[2020.03.11-00.09.04:271][199]LogSlate: Took 0.043454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.11-00.09.10:483][593]LogAIModule: Creating AISystem for world MyMap
+[2020.03.11-00.09.10:517][593]LogAssetEditorManager: Opening Asset editor for World /Game/MY/0Map/MyMap.MyMap
+[2020.03.11-00.09.10:586][593]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.03.11-00.09.10:587][593]Cmd: MAP LOAD FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.11-00.09.10:587][593]LightingResults: New page: 라이팅 빌드
+[2020.03.11-00.09.10:588][593]LoadErrors: New page: 맵 로드중: MyMap.umap
+[2020.03.11-00.09.10:588][593]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-00.09.10:589][593]MapCheck: New page: 맵 체크
+[2020.03.11-00.09.10:589][593]LightingResults: New page: 라이팅 빌드
+[2020.03.11-00.09.10:629][593]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.03.11-00.09.10:642][593]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.11-00.09.10:684][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.03.11-00.09.10:710][593]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.11-00.09.10:710][593]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.11ms.
+[2020.03.11-00.09.10:710][593]LogFileHelpers: Loading map 'MyMap' took 0.125
+[2020.03.11-00.13.49:858][728]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={648CBAEA-4AC4-57B2-E5BF-30BAFCEB8C93}
+[2020.03.11-00.19.07:210][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.11-01.52.34:096][626]LogSlate: Took 0.049053 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.03.11-02.09.21:658][164]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-02.09.21:681][164]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-02.11.57:401][219]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.03.11-02.11.57:407][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/7IMG/UMG_UIE_Heart" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/7IMG/UMG_UIE_Heart.uasset" SILENT=true
+[2020.03.11-02.11.57:412][219]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/UMG_UIE_HeartEFB4C24747BE3EF3E757A58C097C5C4E.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/7IMG/UMG_UIE_Heart.uasset'
+[2020.03.11-02.11.57:414][219]LogMetaData: Removing '/Game/MY/7IMG/UMG_UIE_Heart.SKEL_UMG_UIE_Heart_C' ref from Metadata '/Game/MY/7IMG/UMG_Ele.PackageMetaData'
+[2020.03.11-02.11.57:414][219]LogMetaData: Removing '/Game/MY/7IMG/UMG_UIE_Heart.UMG_UIE_Heart_C' ref from Metadata '/Game/MY/7IMG/UMG_Ele.PackageMetaData'
+[2020.03.11-02.11.57:414][219]LogMetaData: Removing '/Game/MY/7IMG/UMG_UIE_Heart.UMG_UIE_Heart:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MY/7IMG/UMG_Ele.PackageMetaData'
+[2020.03.11-02.11.57:414][219]LogMetaData: Removing '/Game/MY/7IMG/UMG_UIE_Heart.UMG_UIE_Heart:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MY/7IMG/UMG_Ele.PackageMetaData'
+[2020.03.11-02.11.57:414][219]LogMetaData: Removing '/Game/MY/7IMG/UMG_UIE_Heart.UMG_UIE_Heart:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MY/7IMG/UMG_Ele.PackageMetaData'
+[2020.03.11-02.11.57:442][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/7IMG/UMG_UIE_Heart" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/7IMG/UMG_UIE_Heart.uasset" SILENT=true
+[2020.03.11-02.11.57:520][219]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/UMG_UIE_Heart1D6B247B4B9C8C8DCBA7CC8EEE39435D.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/7IMG/UMG_UIE_Heart.uasset'
+[2020.03.11-02.11.57:698][219]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.03.11-02.11.57:740][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.03.11-02.11.57:776][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.03.11-02.12.06:570][505]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MY/7IMG/UMG_UIE_Heart.UMG_UIE_Heart
+[2020.03.11-02.12.32:342][386]LogSlate: Window 'UMG_UIE_Heart' being destroyed
+[2020.03.11-02.13.13:783][321]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/MY/7IMG/IMG_heart1.IMG_heart1
+[2020.03.11-02.13.13:815][321]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.11-02.16.02:976][665]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SWidgetAnimationListView [AnimationTabSummoner.cpp(263)].
+[2020.03.11-02.16.03:084][665]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2020.03.11-02.16.03:084][665]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MY/0Map/MyMap' took 0.071
+[2020.03.11-02.16.03:087][665]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MY/7IMG/UMG_UIE_Heart] ([1] browsable assets)...
+[2020.03.11-02.16.03:088][665]OBJ SavePackage: Finished generating thumbnails for package [/Game/MY/7IMG/UMG_UIE_Heart]
+[2020.03.11-02.16.03:108][665]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/UMG_UIE_Heart_Auto19EDF09424F312D39FC81CEA0D1A666D6.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/Autosaves/Game/MY/7IMG/UMG_UIE_Heart_Auto1.uasset'
+[2020.03.11-02.16.03:109][665]LogFileHelpers: Auto-saving content packages took 0.022
+[2020.03.11-02.17.46:484][544]BlueprintLog: New page: UMG_UIE_Heart 컴파일
+[2020.03.11-02.17.46:539][544]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2020.03.11-02.17.46:583][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/7IMG/UMG_UIE_Heart" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/7IMG/UMG_UIE_Heart.uasset" SILENT=true
+[2020.03.11-02.17.46:607][544]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/UMG_UIE_Heart99D5BFD44AA50616368426887CD54CC4.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/7IMG/UMG_UIE_Heart.uasset'
+[2020.03.11-02.19.58:069][ 93]BlueprintLog: New page: UMG_UIE_Heart 컴파일
+[2020.03.11-02.19.58:124][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2020.03.11-02.19.58:146][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/7IMG/UMG_UIE_Heart" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/7IMG/UMG_UIE_Heart.uasset" SILENT=true
+[2020.03.11-02.19.58:174][ 93]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/UMG_UIE_HeartBEEDCBAF4672ABAA754E6C8E4A8ACCA6.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/7IMG/UMG_UIE_Heart.uasset'
+[2020.03.11-02.20.15:942][194]BlueprintLog: New page: UMG_UIE_Heart 컴파일
+[2020.03.11-02.20.15:990][194]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.03.11-02.20.16:010][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/7IMG/UMG_UIE_Heart" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/7IMG/UMG_UIE_Heart.uasset" SILENT=true
+[2020.03.11-02.20.16:036][194]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/UMG_UIE_Heart599CDAAB48EFFB77E5642DA8998187E2.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/7IMG/UMG_UIE_Heart.uasset'
+[2020.03.11-02.26.21:104][440]BlueprintLog: New page: UMG_UIE_Heart 컴파일
+[2020.03.11-02.26.21:157][440]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2020.03.11-02.26.21:179][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/7IMG/UMG_UIE_Heart" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/7IMG/UMG_UIE_Heart.uasset" SILENT=true
+[2020.03.11-02.26.21:209][440]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/UMG_UIE_Heart8434041F465FA2A53F63B6BA07F47D5C.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/7IMG/UMG_UIE_Heart.uasset'
+[2020.03.11-02.26.22:327][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/7IMG/UMG_UIE_Heart" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/7IMG/UMG_UIE_Heart.uasset" SILENT=true
+[2020.03.11-02.26.22:355][568]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/UMG_UIE_HeartC558982A428F34A571084E8859C48E00.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/7IMG/UMG_UIE_Heart.uasset'
+[2020.03.11-02.28.31:143][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_5.WidgetTree_0
+[2020.03.11-02.28.31:143][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_4.WidgetTree_0
+[2020.03.11-02.28.31:143][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_2.WidgetTree_0
+[2020.03.11-02.28.31:143][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_15.WidgetTree_0
+[2020.03.11-02.28.31:144][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_14.WidgetTree_0
+[2020.03.11-02.28.31:144][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_20.WidgetTree_0
+[2020.03.11-02.28.31:144][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_21.WidgetTree_0
+[2020.03.11-02.28.31:144][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_8.WidgetTree_0
+[2020.03.11-02.28.31:144][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_9.WidgetTree_0
+[2020.03.11-02.28.31:144][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart:WidgetTree_0
+[2020.03.11-02.28.31:144][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_9:WidgetTree_0
+[2020.03.11-02.28.31:144][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_10:WidgetTree_0
+[2020.03.11-02.28.31:144][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_11:WidgetTree_0
+[2020.03.11-02.28.31:144][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_12:WidgetTree_0
+[2020.03.11-02.28.31:144][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_13:WidgetTree_0
+[2020.03.11-02.28.31:144][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_14:WidgetTree_0
+[2020.03.11-02.28.31:144][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_15:WidgetTree_0
+[2020.03.11-02.28.31:144][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_16:WidgetTree_0
+[2020.03.11-02.28.31:144][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_17:WidgetTree_0
+[2020.03.11-02.28.31:145][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_18:WidgetTree_0
+[2020.03.11-02.28.31:145][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_19:WidgetTree_0
+[2020.03.11-02.28.31:145][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_20:WidgetTree_0
+[2020.03.11-02.28.31:145][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_21:WidgetTree_0
+[2020.03.11-02.28.31:145][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_22:WidgetTree_0
+[2020.03.11-02.28.31:145][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_23:WidgetTree_0
+[2020.03.11-02.28.31:145][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_24:WidgetTree_0
+[2020.03.11-02.28.31:145][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_25:WidgetTree_0
+[2020.03.11-02.28.31:145][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_26:WidgetTree_0
+[2020.03.11-02.28.31:145][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_27:WidgetTree_0
+[2020.03.11-02.28.31:145][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_28:WidgetTree_0
+[2020.03.11-02.28.31:145][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_29:WidgetTree_0
+[2020.03.11-02.28.31:145][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_30:WidgetTree_0
+[2020.03.11-02.28.31:145][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_31:WidgetTree_0
+[2020.03.11-02.28.31:145][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_32:WidgetTree_0
+[2020.03.11-02.28.31:145][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_33:WidgetTree_0
+[2020.03.11-02.28.31:146][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_34:WidgetTree_0
+[2020.03.11-02.28.31:146][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_35:WidgetTree_0
+[2020.03.11-02.28.31:146][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_36:WidgetTree_0
+[2020.03.11-02.28.31:146][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_37:WidgetTree_0
+[2020.03.11-02.28.31:146][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_38:WidgetTree_0
+[2020.03.11-02.28.31:146][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_39:WidgetTree_0
+[2020.03.11-02.28.31:146][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_40:WidgetTree_0
+[2020.03.11-02.28.31:146][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_41:WidgetTree_0
+[2020.03.11-02.28.31:146][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_42:WidgetTree_0
+[2020.03.11-02.28.31:146][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_43:WidgetTree_0
+[2020.03.11-02.28.31:146][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_44:WidgetTree_0
+[2020.03.11-02.28.31:146][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_45:WidgetTree_0
+[2020.03.11-02.28.31:146][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_46:WidgetTree_0
+[2020.03.11-02.28.31:146][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_47:WidgetTree_0
+[2020.03.11-02.28.31:146][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_48:WidgetTree_0
+[2020.03.11-02.28.31:146][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_49:WidgetTree_0
+[2020.03.11-02.28.31:147][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_50:WidgetTree_0
+[2020.03.11-02.28.31:147][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_51:WidgetTree_0
+[2020.03.11-02.28.31:147][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_52:WidgetTree_0
+[2020.03.11-02.28.31:147][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_53:WidgetTree_0
+[2020.03.11-02.28.31:147][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_54:WidgetTree_0
+[2020.03.11-02.28.31:147][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_55:WidgetTree_0
+[2020.03.11-02.28.31:147][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_56:WidgetTree_0
+[2020.03.11-02.28.31:147][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_57:WidgetTree_0
+[2020.03.11-02.28.31:147][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_58:WidgetTree_0
+[2020.03.11-02.28.31:147][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_59:WidgetTree_0
+[2020.03.11-02.28.31:147][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_60:WidgetTree_0
+[2020.03.11-02.28.31:147][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_61:WidgetTree_0
+[2020.03.11-02.28.31:147][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_62:WidgetTree_0
+[2020.03.11-02.28.31:147][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_63:WidgetTree_0
+[2020.03.11-02.28.31:147][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_64:WidgetTree_0
+[2020.03.11-02.28.31:147][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_65:WidgetTree_0
+[2020.03.11-02.28.31:148][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_66:WidgetTree_0
+[2020.03.11-02.28.31:148][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_67:WidgetTree_0
+[2020.03.11-02.28.31:148][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_68:WidgetTree_0
+[2020.03.11-02.28.31:148][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_69:WidgetTree_0
+[2020.03.11-02.28.31:148][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_70:WidgetTree_0
+[2020.03.11-02.28.31:148][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_71:WidgetTree_0
+[2020.03.11-02.28.31:148][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_72:WidgetTree_0
+[2020.03.11-02.28.31:148][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_73:WidgetTree_0
+[2020.03.11-02.28.31:148][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_74:WidgetTree_0
+[2020.03.11-02.28.31:148][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_75:WidgetTree_0
+[2020.03.11-02.28.31:148][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_76:WidgetTree_0
+[2020.03.11-02.28.31:148][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_77:WidgetTree_0
+[2020.03.11-02.28.31:148][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_78:WidgetTree_0
+[2020.03.11-02.28.31:148][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_79:WidgetTree_0
+[2020.03.11-02.28.31:148][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_80:WidgetTree_0
+[2020.03.11-02.28.31:148][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_81:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_82:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_83:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_84:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_85:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_86:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_87:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_88:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_89:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_90:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_91:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_92:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_93:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_94:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_95:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_96:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_97:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_98:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_99:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_100:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_101:WidgetTree_0
+[2020.03.11-02.28.31:149][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_102:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_103:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_104:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_105:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_106:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_107:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_108:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_109:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_110:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_111:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_112:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_113:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_114:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_115:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_116:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_117:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_118:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_119:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_120:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_121:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_122:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_123:WidgetTree_0
+[2020.03.11-02.28.31:150][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_124:WidgetTree_0
+[2020.03.11-02.28.31:151][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_125:WidgetTree_0
+[2020.03.11-02.28.31:151][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_126:WidgetTree_0
+[2020.03.11-02.28.31:151][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_127:WidgetTree_0
+[2020.03.11-02.28.31:151][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_128:WidgetTree_0
+[2020.03.11-02.28.31:151][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_129:WidgetTree_0
+[2020.03.11-02.28.31:151][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_130:WidgetTree_0
+[2020.03.11-02.28.31:151][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_131:WidgetTree_0
+[2020.03.11-02.28.31:151][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Game/MY/6UMG/UMG_UHD.UMG_UHD:WidgetTree.UMG_UIE_Heart.WidgetTree_0
+[2020.03.11-02.28.31:151][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_10.WidgetTree_0
+[2020.03.11-02.28.31:151][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_10.WidgetTree_0.UMG_UIE_Heart.WidgetTree_0
+[2020.03.11-02.28.31:151][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_0:WidgetTree_0
+[2020.03.11-02.28.31:151][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_11.WidgetTree_0
+[2020.03.11-02.28.31:151][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_11.WidgetTree_0.UMG_UIE_Heart.WidgetTree_0
+[2020.03.11-02.28.31:151][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_12.WidgetTree_0
+[2020.03.11-02.28.31:151][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_12.WidgetTree_0.UMG_UIE_Heart.WidgetTree_0
+[2020.03.11-02.28.31:151][261]LogProperty: Warning: Illegal TEXT reference to a private object in external package (Image /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0.IMG_Heart) from referencer (UMG_UIE_Heart_C /Engine/UMG/Editor/Transient.UMG_UIE_Heart).  Import failed...
+[2020.03.11-02.28.31:151][261]LogProperty: Warning: ObjectProperty /Game/MY/7IMG/UMG_UIE_Heart.UMG_UIE_Heart_C:IMG_Heart: unresolved reference to 'Image'"WidgetTree_0.IMG_Heart"''
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_5.WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_4.WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_2.WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_15.WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_14.WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_20.WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_21.WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_8.WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_9.WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart:WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_9:WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_10:WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_11:WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_12:WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_13:WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_14:WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_15:WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_16:WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_17:WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_18:WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_19:WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_20:WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_21:WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_22:WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_23:WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_24:WidgetTree_0
+[2020.03.11-02.28.31:812][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_25:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_26:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_27:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_28:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_29:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_30:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_31:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_32:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_33:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_34:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_35:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_36:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_37:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_38:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_39:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_40:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_41:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_42:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_43:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_44:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_45:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_46:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_47:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_48:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_49:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_50:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_51:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_52:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_53:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_54:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_55:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_56:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_57:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_58:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_59:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_60:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_61:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_62:WidgetTree_0
+[2020.03.11-02.28.31:813][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_63:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_64:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_65:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_66:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_67:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_68:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_69:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_70:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_71:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_72:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_73:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_74:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_75:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_76:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_77:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_78:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_79:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_80:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_81:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_82:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_83:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_84:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_85:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_86:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_87:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_88:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_89:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_90:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_91:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_92:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_93:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_94:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_95:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_96:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_97:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_98:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_99:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_100:WidgetTree_0
+[2020.03.11-02.28.31:814][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_101:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_102:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_103:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_104:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_105:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_106:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_107:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_108:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_109:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_110:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_111:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_112:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_113:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_114:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_115:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_116:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_117:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_118:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_119:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_120:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_121:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_122:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_123:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_124:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_125:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_126:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_127:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_128:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_129:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_130:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_C_131:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Game/MY/6UMG/UMG_UHD.UMG_UHD:WidgetTree.UMG_UIE_Heart.WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_10.WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_10.WidgetTree_0.UMG_UIE_Heart.WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.UMG_UIE_Heart_0:WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_11.WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_11.WidgetTree_0.UMG_UIE_Heart.WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_12.WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_12.WidgetTree_0.UMG_UIE_Heart.WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_13.WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_13.WidgetTree_0.UMG_UIE_Heart.WidgetTree_0
+[2020.03.11-02.28.31:815][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_13.WidgetTree_0.UMG_UIE_Heart_1.WidgetTree_0
+[2020.03.11-02.28.31:816][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_14.WidgetTree_0
+[2020.03.11-02.28.31:816][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_14.WidgetTree_0.UMG_UIE_Heart.WidgetTree_0
+[2020.03.11-02.28.31:816][329]LogUObjectHash: Warning: Ambiguous search, could be WidgetTree /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0 or WidgetTree /Engine/Transient.World_2:UMG_UHD_C_14.WidgetTree_0.UMG_UIE_Heart_1.WidgetTree_0
+[2020.03.11-02.28.31:816][329]LogProperty: Warning: Illegal TEXT reference to a private object in external package (Image /Engine/Transient.World_6:UMG_UIE_Heart_C_3.WidgetTree_0.IMG_Heart) from referencer (UMG_UIE_Heart_C /Engine/UMG/Editor/Transient.UMG_UIE_Heart).  Import failed...
+[2020.03.11-02.28.31:816][329]LogProperty: Warning: ObjectProperty /Game/MY/7IMG/UMG_UIE_Heart.UMG_UIE_Heart_C:IMG_Heart: unresolved reference to 'Image'"WidgetTree_0.IMG_Heart"''
+[2020.03.11-02.31.11:700][ 33]BlueprintLog: New page: UMG_UHD 컴파일
+[2020.03.11-02.31.11:762][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2020.03.11-02.31.11:787][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/6UMG/UMG_UHD" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/6UMG/UMG_UHD.uasset" SILENT=true
+[2020.03.11-02.31.11:828][ 33]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/UMG_UHDE2425AA7468908AE5A13B7A15C45C956.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/6UMG/UMG_UHD.uasset'
+[2020.03.11-02.32.15:345][632]LogEditorTransaction: Undo 노드 이동
+[2020.03.11-02.32.18:837][ 44]BlueprintLog: New page: UMG_UHD 컴파일
+[2020.03.11-02.32.18:895][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2020.03.11-02.32.18:919][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/6UMG/UMG_UHD" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/6UMG/UMG_UHD.uasset" SILENT=true
+[2020.03.11-02.32.18:958][ 44]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/UMG_UHDCE88926849E5F48946C1719D463BA2E7.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/6UMG/UMG_UHD.uasset'
+[2020.03.11-02.32.57:443][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/7IMG/UMG_UIE_Heart" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/7IMG/UMG_UIE_Heart.uasset" SILENT=true
+[2020.03.11-02.32.57:476][387]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/UMG_UIE_HeartF4DAEEE54E1A43E8228C2D983C821B97.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/7IMG/UMG_UIE_Heart.uasset'
+[2020.03.11-02.33.03:988][ 74]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.03.11-02.33.04:017][ 74]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.11-02.33.04:017][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-02.33.04:017][ 74]PIE: New page: PIE 세션: MyMap (2020. 3. 11. 오후 8:33:04)
+[2020.03.11-02.33.04:018][ 74]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.11-02.33.04:019][ 74]LogPlayLevel: Creating play world package: /Game/MY/0Map/UEDPIE_0_MyMap
+[2020.03.11-02.33.04:025][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005537s)
+[2020.03.11-02.33.04:026][ 74]LogAIModule: Creating AISystem for world MyMap
+[2020.03.11-02.33.04:026][ 74]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2020.03.11-02.33.04:026][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MY/0Map/MyMap.MyMap to /Game/MY/0Map/UEDPIE_0_MyMap.MyMap (0.006932s)
+[2020.03.11-02.33.04:075][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.03.11-02.33.04:089][ 74]LogLoad: Game class is 'GameModeBase'
+[2020.03.11-02.33.04:092][ 74]LogWorld: Bringing World /Game/MY/0Map/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2020.03.11-11.33.04
+[2020.03.11-02.33.04:093][ 74]LogWorld: Bringing up level for play took: 0.002844
+[2020.03.11-02.33.04:093][ 74]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.03.11-02.33.04:121][ 74]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.03.11-02.33.04:128][ 74]PIE: /Game/MY/0Map/UEDPIE_0_MyMap 에 대한 에디터에서 플레이 시작 시간: -0.854
+[2020.03.11-02.33.04:129][ 74]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.11-02.33.12:769][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.11-02.33.16:429][499]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.11-02.33.16:429][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.33.16:429][499]LogWorld: BeginTearingDown for /Game/MY/0Map/UEDPIE_0_MyMap
+[2020.03.11-02.33.16:429][499]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-02.33.16:443][499]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-02.33.16:443][499]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.11-02.33.16:502][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.33.16:538][499]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2020.03.11-02.33.16:550][500]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.03.11-02.33.47:552][180]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.03.11-02.33.47:582][180]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.11-02.33.47:582][180]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-02.33.47:582][180]PIE: New page: PIE 세션: MyMap (2020. 3. 11. 오후 8:33:47)
+[2020.03.11-02.33.47:583][180]LogPlayLevel: Creating play world package: /Game/MY/0Map/UEDPIE_0_MyMap
+[2020.03.11-02.33.47:588][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005483s)
+[2020.03.11-02.33.47:589][180]LogAIModule: Creating AISystem for world MyMap
+[2020.03.11-02.33.47:589][180]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2020.03.11-02.33.47:589][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MY/0Map/MyMap.MyMap to /Game/MY/0Map/UEDPIE_0_MyMap.MyMap (0.006620s)
+[2020.03.11-02.33.47:656][180]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.03.11-02.33.47:666][180]LogLoad: Game class is 'GameModeBase'
+[2020.03.11-02.33.47:669][180]LogWorld: Bringing World /Game/MY/0Map/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2020.03.11-11.33.47
+[2020.03.11-02.33.47:670][180]LogWorld: Bringing up level for play took: 0.002717
+[2020.03.11-02.33.47:670][180]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.03.11-02.33.47:673][180]PIE: /Game/MY/0Map/UEDPIE_0_MyMap 에 대한 에디터에서 플레이 시작 시간: 0.69
+[2020.03.11-02.33.47:673][180]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.11-02.33.54:920][ 48]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.03.11-02.33.56:693][257]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.11-02.33.56:693][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.33.56:693][257]LogWorld: BeginTearingDown for /Game/MY/0Map/UEDPIE_0_MyMap
+[2020.03.11-02.33.56:694][257]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-02.33.56:706][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-02.33.56:706][257]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.11-02.33.56:750][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.33.56:756][257]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.03.11-02.33.56:797][260]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.03.11-02.34.08:404][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.11-02.34.15:558][365]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-02.34.15:580][365]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-02.35.06:836][309]LogRenderer: Reallocating scene render targets to support 708x648 Format 9 NumSamples 1 (Frame:1).
+[2020.03.11-02.35.27:055][447]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/MY/3Character/ABP_MyPlayer.ABP_MyPlayer
+[2020.03.11-02.35.27:135][447]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.11-02.35.27:606][447]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.11-02.35.27:612][447]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.03.11-02.35.27:954][447]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.11-02.37.41:766][398]BlueprintLog: New page: ABP_MyPlayer 컴파일
+[2020.03.11-02.37.41:771][398]LogBlueprint: Warning: [Compiler ABP_MyPlayer] Jump -> InWater  will never be taken, please connect something to  Can Enter Transition
+[2020.03.11-02.37.41:771][398]LogBlueprint: Warning: [Compiler ABP_MyPlayer] InWater -> Jump  will never be taken, please connect something to  Can Enter Transition
+[2020.03.11-02.37.41:772][398]LogBlueprint: Warning: [Compiler ABP_MyPlayer] InWater -> IdleAndRun  will never be taken, please connect something to  Can Enter Transition
+[2020.03.11-02.37.41:772][398]LogBlueprint: Warning: [Compiler ABP_MyPlayer] IdleAndRun -> InWater  will never be taken, please connect something to  Can Enter Transition
+[2020.03.11-02.37.42:146][398]LogUObjectHash: Compacting FUObjectHashTables data took   7.46ms
+[2020.03.11-02.39.14:359][195]BlueprintLog: New page: ABP_MyPlayer 컴파일
+[2020.03.11-02.39.14:365][195]LogBlueprint: Warning: [Compiler ABP_MyPlayer] Jump -> InWater  will never be taken, please connect something to  Can Enter Transition
+[2020.03.11-02.39.14:365][195]LogBlueprint: Warning: [Compiler ABP_MyPlayer] InWater -> Jump  will never be taken, please connect something to  Can Enter Transition
+[2020.03.11-02.39.14:365][195]LogBlueprint: Warning: [Compiler ABP_MyPlayer] InWater -> IdleAndRun  will never be taken, please connect something to  Can Enter Transition
+[2020.03.11-02.39.14:698][195]LogUObjectHash: Compacting FUObjectHashTables data took   8.24ms
+[2020.03.11-02.39.59:249][447]BlueprintLog: New page: ABP_MyPlayer 컴파일
+[2020.03.11-02.39.59:256][447]LogBlueprint: Warning: [Compiler ABP_MyPlayer] InWater -> Jump  will never be taken, please connect something to  Can Enter Transition
+[2020.03.11-02.39.59:257][447]LogBlueprint: Warning: [Compiler ABP_MyPlayer] InWater -> IdleAndRun  will never be taken, please connect something to  Can Enter Transition
+[2020.03.11-02.39.59:531][447]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.03.11-02.40.51:692][581]LogLinker: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2020.03.11-02.40.51:692][581]LogLinker: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2020.03.11-02.41.13:819][205]BlueprintLog: New page: ABP_MyPlayer 컴파일
+[2020.03.11-02.41.14:095][205]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.03.11-02.41.14:127][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/3Character/ABP_MyPlayer" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/3Character/ABP_MyPlayer.uasset" SILENT=true
+[2020.03.11-02.41.14:196][205]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/ABP_MyPlayerF132B6C24261824E9592A29CEDEB4363.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/3Character/ABP_MyPlayer.uasset'
+[2020.03.11-02.42.39:463][565]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MY/5BP/BP_Water.BP_Water
+[2020.03.11-02.42.42:511][882]BlueprintLog: New page: ABP_MyPlayer 컴파일
+[2020.03.11-02.42.42:804][882]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2020.03.11-02.42.42:836][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/3Character/ABP_MyPlayer" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/3Character/ABP_MyPlayer.uasset" SILENT=true
+[2020.03.11-02.42.42:901][882]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/ABP_MyPlayerC60EA9AC43A5C5B67214B2B065336303.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/3Character/ABP_MyPlayer.uasset'
+[2020.03.11-02.44.07:563][821]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap
+[2020.03.11-02.46.32:196][388]LogWindows: LaunchURL http://docs.unrealengine.com/latest/KOR/Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2020.03.11-02.48.13:969][578]BlueprintLog: New page: BP_Water 컴파일
+[2020.03.11-02.48.14:258][578]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2020.03.11-02.48.14:293][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Water" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Water.uasset" SILENT=true
+[2020.03.11-02.48.14:327][578]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_Water70EDA9FF4AC3342BCFB6A1A618969D33.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Water.uasset'
+[2020.03.11-02.48.17:220][919]BlueprintLog: New page: BP_MyPlayer 컴파일
+[2020.03.11-02.48.17:513][919]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2020.03.11-02.48.17:572][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_MyPlayer" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_MyPlayer.uasset" SILENT=true
+[2020.03.11-02.48.17:628][919]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_MyPlayer586B9D3A4C5843FCF5EA92863BBDB469.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_MyPlayer.uasset'
+[2020.03.11-02.48.21:653][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/0Map/MyMap" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.11-02.48.21:705][382]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2020.03.11-02.48.22:007][382]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MyMap434F98754B196D3D299AC7BC7072626E.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap'
+[2020.03.11-02.48.22:042][382]LogFileHelpers: Saving map 'MyMap' took 0.389
+[2020.03.11-02.48.39:455][394]BlueprintLog: New page: BP_Water 컴파일
+[2020.03.11-02.48.39:734][394]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2020.03.11-02.48.39:770][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Water" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Water.uasset" SILENT=true
+[2020.03.11-02.48.39:805][394]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_WaterE1B0312E4EEC81BDD98AA29B6D4D17C3.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Water.uasset'
+[2020.03.11-02.48.52:246][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Water" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Water.uasset" SILENT=true
+[2020.03.11-02.48.52:271][880]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_Water202C26CD48E23D170AA0AA96BF068F86.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Water.uasset'
+[2020.03.11-02.48.54:606][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/0Map/MyMap" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.11-02.48.54:657][154]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2020.03.11-02.48.54:964][154]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MyMapD96C2FAA40AE264C089989B2680903CA.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap'
+[2020.03.11-02.48.54:994][154]LogFileHelpers: Saving map 'MyMap' took 0.389
+[2020.03.11-02.50.52:597][437]BlueprintLog: New page: BP_MyPlayer 컴파일
+[2020.03.11-02.50.52:914][437]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2020.03.11-02.50.52:977][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_MyPlayer" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_MyPlayer.uasset" SILENT=true
+[2020.03.11-02.50.53:034][437]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_MyPlayer16EBBB1849118349A581E192F0D77DF7.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_MyPlayer.uasset'
+[2020.03.11-02.50.58:317][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_MyPlayer" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_MyPlayer.uasset" SILENT=true
+[2020.03.11-02.50.58:362][ 61]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_MyPlayer09F3BE1A4B416F0430BD12AF8D8E9915.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_MyPlayer.uasset'
+[2020.03.11-02.51.44:558][ 38]BlueprintLog: New page: BP_MyPlayer 컴파일
+[2020.03.11-02.51.44:868][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2020.03.11-02.51.44:930][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_MyPlayer" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_MyPlayer.uasset" SILENT=true
+[2020.03.11-02.51.44:986][ 38]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_MyPlayer6F2A562F44C94D0F9BE619A737F229FC.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_MyPlayer.uasset'
+[2020.03.11-02.53.35:412][172]BlueprintLog: New page: ABP_MyPlayer 컴파일
+[2020.03.11-02.53.35:713][172]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2020.03.11-02.53.35:745][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/3Character/ABP_MyPlayer" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/3Character/ABP_MyPlayer.uasset" SILENT=true
+[2020.03.11-02.53.35:810][172]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/ABP_MyPlayerBEDBF651420CFBD5FD1EE6925365A175.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/3Character/ABP_MyPlayer.uasset'
+[2020.03.11-02.54.00:746][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/3Character/ABP_MyPlayer" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/3Character/ABP_MyPlayer.uasset" SILENT=true
+[2020.03.11-02.54.00:800][923]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/ABP_MyPlayer752CA48D4483A8E33D0D5E8DA0ECD446.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/3Character/ABP_MyPlayer.uasset'
+[2020.03.11-02.54.04:327][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/0Map/MyMap" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.11-02.54.04:379][332]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.03.11-02.54.04:684][332]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MyMap7BB869544967E59DF15030A532BFC6D8.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap'
+[2020.03.11-02.54.04:717][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/0Map/MyMap_BuiltData" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap_BuiltData.uasset" SILENT=true
+[2020.03.11-02.54.04:735][332]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MyMap_BuiltData4302EC534029A19305EE2580436D2131.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap_BuiltData.uasset'
+[2020.03.11-02.54.06:479][516]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.03.11-02.54.06:499][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.11-02.54.06:499][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-02.54.06:499][516]PIE: New page: PIE 세션: MyMap (2020. 3. 11. 오후 8:54:06)
+[2020.03.11-02.54.06:500][516]LogPlayLevel: Creating play world package: /Game/MY/0Map/UEDPIE_0_MyMap
+[2020.03.11-02.54.06:505][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005352s)
+[2020.03.11-02.54.06:506][516]LogAIModule: Creating AISystem for world MyMap
+[2020.03.11-02.54.06:506][516]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2020.03.11-02.54.06:506][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MY/0Map/MyMap.MyMap to /Game/MY/0Map/UEDPIE_0_MyMap.MyMap (0.006454s)
+[2020.03.11-02.54.06:556][516]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.03.11-02.54.06:565][516]LogLoad: Game class is 'GameModeBase'
+[2020.03.11-02.54.06:568][516]LogWorld: Bringing World /Game/MY/0Map/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2020.03.11-11.54.06
+[2020.03.11-02.54.06:569][516]LogWorld: Bringing up level for play took: 0.002511
+[2020.03.11-02.54.06:569][516]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.03.11-02.54.06:572][516]PIE: /Game/MY/0Map/UEDPIE_0_MyMap 에 대한 에디터에서 플레이 시작 시간: -0.412
+[2020.03.11-02.54.06:572][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.11-02.54.20:812][221]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.11-02.54.20:812][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.54.20:812][221]LogWorld: BeginTearingDown for /Game/MY/0Map/UEDPIE_0_MyMap
+[2020.03.11-02.54.20:812][221]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-02.54.20:835][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-02.54.20:836][221]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.11-02.54.20:888][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.54.20:893][221]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.03.11-02.54.20:920][223]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.03.11-03.51.52:780][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.11-03.55.09:229][186]BlueprintLog: New page: UMG_UHD 컴파일
+[2020.03.11-03.55.09:336][186]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2020.03.11-03.55.09:361][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/6UMG/UMG_UHD" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/6UMG/UMG_UHD.uasset" SILENT=true
+[2020.03.11-03.55.09:404][186]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/UMG_UHDEF9D0D124BBD0C02966B3DB6A0DB3088.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/6UMG/UMG_UHD.uasset'
+[2020.03.11-03.55.11:158][371]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.03.11-03.55.11:182][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.11-03.55.11:183][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-03.55.11:183][371]PIE: New page: PIE 세션: MyMap (2020. 3. 11. 오후 9:55:11)
+[2020.03.11-03.55.11:183][371]LogPlayLevel: Creating play world package: /Game/MY/0Map/UEDPIE_0_MyMap
+[2020.03.11-03.55.11:188][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005427s)
+[2020.03.11-03.55.11:189][371]LogAIModule: Creating AISystem for world MyMap
+[2020.03.11-03.55.11:189][371]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2020.03.11-03.55.11:189][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MY/0Map/MyMap.MyMap to /Game/MY/0Map/UEDPIE_0_MyMap.MyMap (0.006518s)
+[2020.03.11-03.55.11:239][371]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.03.11-03.55.11:247][371]LogLoad: Game class is 'GameModeBase'
+[2020.03.11-03.55.11:251][371]LogWorld: Bringing World /Game/MY/0Map/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2020.03.11-12.55.11
+[2020.03.11-03.55.11:251][371]LogWorld: Bringing up level for play took: 0.002561
+[2020.03.11-03.55.11:251][371]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.03.11-03.55.11:254][371]PIE: /Game/MY/0Map/UEDPIE_0_MyMap 에 대한 에디터에서 플레이 시작 시간: 0.272
+[2020.03.11-03.55.11:254][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.11-03.55.20:530][482]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.03.11-03.55.21:844][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.11-03.55.21:844][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-03.55.21:845][639]LogWorld: BeginTearingDown for /Game/MY/0Map/UEDPIE_0_MyMap
+[2020.03.11-03.55.21:845][639]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-03.55.21:867][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-03.55.21:867][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.11-03.55.21:920][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-03.55.21:926][639]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.03.11-03.55.21:944][640]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.03.11-03.55.22:995][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.11-03.56.09:793][196]LogMetaData: Removing '/Game/MY/6UMG/UMG_UIE_Heart.UMG_UIE_Heart_C' ref from Metadata '/Game/MY/7IMG/UMG_UIE_Heart.PackageMetaData'
+[2020.03.11-03.56.09:794][196]LogMetaData: Removing '/Game/MY/6UMG/UMG_UIE_Heart.SKEL_UMG_UIE_Heart_C' ref from Metadata '/Game/MY/7IMG/UMG_UIE_Heart.PackageMetaData'
+[2020.03.11-03.56.09:794][196]LogMetaData: Removing '/Game/MY/6UMG/UMG_UIE_Heart.UMG_UIE_Heart:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MY/7IMG/UMG_UIE_Heart.PackageMetaData'
+[2020.03.11-03.56.09:794][196]LogMetaData: Removing '/Game/MY/6UMG/UMG_UIE_Heart.UMG_UIE_Heart:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MY/7IMG/UMG_UIE_Heart.PackageMetaData'
+[2020.03.11-03.56.09:794][196]LogMetaData: Removing '/Game/MY/6UMG/UMG_UIE_Heart.UMG_UIE_Heart:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MY/7IMG/UMG_UIE_Heart.PackageMetaData'
+[2020.03.11-03.56.09:794][196]LogMetaData: Removing '/Game/MY/6UMG/UMG_UIE_Heart.UMG_UIE_Heart_C:DisappearAni' ref from Metadata '/Game/MY/7IMG/UMG_UIE_Heart.PackageMetaData'
+[2020.03.11-03.56.09:794][196]LogMetaData: Removing '/Game/MY/6UMG/UMG_UIE_Heart.UMG_UIE_Heart_C:IMG_Heart' ref from Metadata '/Game/MY/7IMG/UMG_UIE_Heart.PackageMetaData'
+[2020.03.11-03.56.09:794][196]LogMetaData: Removing '/Game/MY/6UMG/UMG_UIE_Heart.SKEL_UMG_UIE_Heart_C:DisappearAni' ref from Metadata '/Game/MY/7IMG/UMG_UIE_Heart.PackageMetaData'
+[2020.03.11-03.56.09:794][196]LogMetaData: Removing '/Game/MY/6UMG/UMG_UIE_Heart.SKEL_UMG_UIE_Heart_C:IMG_Heart' ref from Metadata '/Game/MY/7IMG/UMG_UIE_Heart.PackageMetaData'
+[2020.03.11-03.56.09:794][196]LogMetaData: Removing '/Game/MY/6UMG/UMG_UIE_Heart.SKEL_UMG_UIE_Heart_C:Tick' ref from Metadata '/Game/MY/7IMG/UMG_UIE_Heart.PackageMetaData'
+[2020.03.11-03.56.09:794][196]LogMetaData: Removing '/Game/MY/6UMG/UMG_UIE_Heart.SKEL_UMG_UIE_Heart_C:Construct' ref from Metadata '/Game/MY/7IMG/UMG_UIE_Heart.PackageMetaData'
+[2020.03.11-03.56.09:794][196]LogMetaData: Removing '/Game/MY/6UMG/UMG_UIE_Heart.SKEL_UMG_UIE_Heart_C:PreConstruct' ref from Metadata '/Game/MY/7IMG/UMG_UIE_Heart.PackageMetaData'
+[2020.03.11-03.56.09:816][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/6UMG/UMG_UIE_Heart" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/6UMG/UMG_UIE_Heart.uasset" SILENT=true
+[2020.03.11-03.56.09:832][196]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/UMG_UIE_HeartEB612EA043A97B689BF11CA25051B312.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/6UMG/UMG_UIE_Heart.uasset'
+[2020.03.11-03.56.10:061][196]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.03.11-03.56.10:112][196]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.03.11-03.56.10:158][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.03.11-03.56.10:170][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/6UMG/UMG_UHD" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/6UMG/UMG_UHD.uasset" SILENT=true
+[2020.03.11-03.56.10:207][196]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/UMG_UHDD95B49344E398078F244FAA7FE22A333.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/6UMG/UMG_UHD.uasset'
+[2020.03.11-03.56.12:105][400]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MY/6UMG/UMG_UIE_Heart.UMG_UIE_Heart
+[2020.03.11-03.56.25:580][860]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.03.11-03.56.25:606][860]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.11-03.56.25:607][860]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2020.03.11-03.56.25:613][860]LogPlayLevel: [PlayLevel] Compiling UMG_UHD before play...
+[2020.03.11-03.56.25:943][860]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.11-03.56.27:549][860]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.605 s
+[2020.03.11-03.56.27:549][860]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.11-03.56.27:549][860]LogOutputDevice: Error: 
+[2020.03.11-03.56.27:549][860]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/UMG/Private/Slate/SObjectWidget.cpp] [Line: 43]
+[2020.03.11-03.56.27:549][860]LogOutputDevice: Error: SObjectWidget for 'UMG_UIE_Heart_C /Engine/Transient.World_2:UMG_UHD_C_54.WidgetTree_0.UMG_UIE_Heart_1' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2020.03.11-03.56.27:549][860]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2020.03.11-03.56.27:549][860]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2020.03.11-03.56.27:549][860]LogOutputDevice: Error: Stack: 
+[2020.03.11-03.56.27:549][860]LogOutputDevice: Error: [Callstack] 0x00007ffbd27d309e UE4Editor-UMG.dll!UnknownFunction []
+[2020.03.11-03.56.27:549][860]LogOutputDevice: Error: [Callstack] 0x00007ffbd2640746 UE4Editor-UMG.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbdf26a29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbdf70cb75 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbdf6fda58 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbdf70271d UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbdf26a29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbdf1f396f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbdf1e6ad4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbdf26a29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbdf70c94e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbdf6fdb58 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbdf7018a9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbd270231b UE4Editor-UMG.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbe10ab7c3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbe1086aec UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbe102f8c2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbe102ea0a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbde386d6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbde3737c6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbde38e265 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbdde4d9b4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ffbde6a5296 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.11-03.56.27:550][860]LogOutputDevice: Error: [Callstack] 0x00007ff6917f7b0a UE4Editor.exe!UnknownFunction []
+[2020.03.11-03.56.27:551][860]LogOutputDevice: Error: [Callstack] 0x00007ff69180a91c UE4Editor.exe!UnknownFunction []
+[2020.03.11-03.56.27:551][860]LogOutputDevice: Error: [Callstack] 0x00007ff69180a9fa UE4Editor.exe!UnknownFunction []
+[2020.03.11-03.56.27:551][860]LogOutputDevice: Error: [Callstack] 0x00007ff69181b92c UE4Editor.exe!UnknownFunction []
+[2020.03.11-03.56.27:551][860]LogOutputDevice: Error: [Callstack] 0x00007ff69181e60e UE4Editor.exe!UnknownFunction []
+[2020.03.11-03.56.27:551][860]LogOutputDevice: Error: [Callstack] 0x00007ffc256c7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.11-03.56.27:551][860]LogOutputDevice: Error: [Callstack] 0x00007ffc26dace71 ntdll.dll!UnknownFunction []
+[2020.03.11-03.56.27:551][860]LogOutputDevice: Error: 
+[2020.03.11-03.56.27:558][860]LogStats:                SubmitErrorReport -  0.000 s

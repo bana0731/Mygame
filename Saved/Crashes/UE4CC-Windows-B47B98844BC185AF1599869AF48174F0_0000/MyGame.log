@@ -1,0 +1,1398 @@
+﻿Log file open, 03/12/20 09:10:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.086515
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz, GPU: NVIDIA GeForce GT 710
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Engine.ini]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Engine.ini]
+[2020.03.12-00.10.43:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Engine.ini]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Engine.ini]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.12-00.10.43:054][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.12-00.10.43:055][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.12-00.10.43:055][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.12-00.10.43:055][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Engine.ini]
+[2020.03.12-00.10.43:055][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Engine.ini]
+[2020.03.12-00.10.43:058][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.12-00.10.43:058][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.12-00.10.43:059][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.12-00.10.43:060][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.12-00.10.43:060][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.12-00.10.43:060][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.12-00.10.43:060][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.12-00.10.43:060][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.12-00.10.43:060][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.12-00.10.43:060][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-00.10.43:060][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.12-00.10.43:060][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.12-00.10.43:060][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.12-00.10.43:060][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.12-00.10.43:064][  0]LogHAL: Display: Platform has ~ 16 GB [17133834240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.12-00.10.43:065][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.12-00.10.43:065][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.03.12-00.10.43:065][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.12-00.10.43:066][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Config/Windows/Engine.ini]
+[2020.03.12-00.10.43:067][  0]LogInit: Computer: M16033
+[2020.03.12-00.10.43:067][  0]LogInit: User: student
+[2020.03.12-00.10.43:067][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.12-00.10.43:067][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.12-00.10.43:067][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.03.12-00.10.43:067][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.12-00.10.43:067][  0]LogMemory: Process Physical Memory: 100.68 MB used, 100.69 MB peak
+[2020.03.12-00.10.43:067][  0]LogMemory: Process Virtual Memory: 87.96 MB used, 87.96 MB peak
+[2020.03.12-00.10.43:067][  0]LogMemory: Physical Memory: 4576.86 MB used,  11763.24 MB free, 16340.10 MB total
+[2020.03.12-00.10.43:067][  0]LogMemory: Virtual Memory: 4643.61 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.03.12-00.10.43:070][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.12-00.10.43:092][  0]LogInit: Using OS detected language (ko-KR).
+[2020.03.12-00.10.43:092][  0]LogInit: Using OS detected locale (ko-KR).
+[2020.03.12-00.10.43:093][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2020.03.12-00.10.43:179][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.12-00.10.43:275][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.12-00.10.43:276][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.12-00.10.43:456][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.12-00.10.43:457][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.12-00.10.43:512][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 710' (Feature Level 11_0)
+[2020.03.12-00.10.43:512][  0]LogD3D11RHI:       984/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.12-00.10.43:515][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.12-00.10.43:515][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.12-00.10.43:515][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.12-00.10.43:521][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.12-00.10.43:521][  0]LogD3D11RHI:     GPU DeviceId: 0x128b (for the marketing name, search the web for "GPU Device Id")
+[2020.03.12-00.10.43:521][  0]LogWindows: EnumDisplayDevices:
+[2020.03.12-00.10.43:522][  0]LogWindows:    0. 'NVIDIA GeForce GT 710' (P:1 D:1)
+[2020.03.12-00.10.43:522][  0]LogWindows:    1. 'NVIDIA GeForce GT 710' (P:0 D:0)
+[2020.03.12-00.10.43:522][  0]LogWindows:    2. 'NVIDIA GeForce GT 710' (P:0 D:0)
+[2020.03.12-00.10.43:523][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.03.12-00.10.43:523][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 710
+[2020.03.12-00.10.43:523][  0]LogD3D11RHI:   Driver Version: 419.67 (internal:25.21.14.1967, unified:419.67)
+[2020.03.12-00.10.43:523][  0]LogD3D11RHI:      Driver Date: 3-17-2019
+[2020.03.12-00.10.43:523][  0]LogRHI: Texture pool is 689 MB (70% of 984 MB)
+[2020.03.12-00.10.43:563][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.12-00.10.43:576][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.12-00.10.43:910][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.12-00.10.43:921][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.12-00.10.43:931][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.12-00.10.43:942][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.12-00.10.43:960][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.12-00.10.43:970][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.12-00.10.43:980][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.12-00.10.43:991][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.12-00.10.43:997][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.12-00.10.44:043][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.12-00.10.44:043][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.12-00.10.44:043][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.12-00.10.44:043][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.12-00.10.44:043][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.12-00.10.44:043][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.12-00.10.44:043][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.12-00.10.44:043][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.12-00.10.44:043][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.12-00.10.44:043][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.12-00.10.44:043][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.12-00.10.44:043][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.12-00.10.44:043][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.12-00.10.44:043][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.12-00.10.44:043][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.12-00.10.44:043][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.12-00.10.44:043][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.12-00.10.44:044][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.12-00.10.44:045][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.12-00.10.44:083][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.12-00.10.44:083][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.12-00.10.44:108][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.12-00.10.44:108][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.12-00.10.44:118][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.12-00.10.44:126][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.12-00.10.44:135][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.12-00.10.44:156][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.12-00.10.44:186][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.12-00.10.44:186][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.12-00.10.44:186][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.12-00.10.44:196][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.12-00.10.44:258][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/student/Documents/Unreal Projects/MyGame/Intermediate/Shaders/WorkingDirectory/9000/).
+[2020.03.12-00.10.44:258][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/student/AppData/Local/Temp/UnrealShaderWorkingDir/5480191F473B0E69C21C1A98C5E7823C/'.
+[2020.03.12-00.10.44:261][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.12-00.10.44:261][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.12-00.10.44:261][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.12-00.10.44:960][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.12-00.10.45:018][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/student/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.03.12-00.10.45:018][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/student/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.03.12-00.10.45:018][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/student/Documents/Unreal Projects/MyGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.12-00.10.45:018][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.12-00.10.45:018][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/student/Documents/Unreal Projects/MyGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.12-00.10.45:019][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.12-00.10.45:032][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.12-00.10.45:032][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.12-00.10.45:032][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.12-00.10.45:033][  0]LogDerivedDataCache: Using Local data cache path C:/Users/student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.12-00.10.45:033][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.12-00.10.45:033][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.12-00.10.45:057][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.12-00.10.45:059][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.12-00.10.45:060][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.12-00.10.45:124][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.03.12-00.10.45:411][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.12-00.10.45:580][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.12-00.10.45:580][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.12-00.10.45:580][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.12-00.10.45:580][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.12-00.10.45:580][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.12-00.10.45:589][  0]LogNetVersion: MyGame 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 4240746401)
+[2020.03.12-00.10.46:796][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.574634 seconds
+[2020.03.12-00.10.46:804][  0]LogUObjectArray: 43447 objects as part of root set at end of initial load.
+[2020.03.12-00.10.46:804][  0]LogUObjectAllocator: 7549224 out of 0 bytes used by permanent object pool.
+[2020.03.12-00.10.46:804][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.12-00.10.48:362][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.12-00.10.48:365][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.12-00.10.48:423][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.03.12-00.10.48:423][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.03.12-00.10.48:425][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.03.12-00.10.48:426][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.03.12-00.10.48:519][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.12-00.10.48:617][  0]LogOcInput: OculusInput pre-init called
+[2020.03.12-00.10.48:624][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.12-00.10.48:624][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.12-00.10.48:698][  0]LogEngine: Initializing Engine...
+[2020.03.12-00.10.48:699][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.12-00.10.48:700][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.12-00.10.48:941][  0]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2020.03.12-00.10.48:941][  0]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2020.03.12-00.10.48:941][  0]LogUObjectGlobals: Warning: 'Font /Game/NewFont.NewFont' 오브젝트를 찾는 데 실패했습니다.
+[2020.03.12-00.10.48:944][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.12-00.10.48:959][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.12-00.10.48:978][  0]LogInit: No audio devices found!
+[2020.03.12-00.10.48:979][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.12-00.10.50:013][  0]LogDerivedDataCache: Saved boot cache 1.03s 73MB C:/Users/student/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.03.12-00.10.50:015][  0]LogInit: Texture streaming: Enabled
+[2020.03.12-00.10.50:034][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.12-00.10.50:034][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.12-00.10.50:035][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.12-00.10.50:083][  0]LogInit: Transaction tracking system initialized
+[2020.03.12-00.10.50:118][  0]BlueprintLog: New page: 에디터 로드
+[2020.03.12-00.10.51:441][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2020.03.12-00.10.52:522][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.12-00.10.52:522][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.12-00.10.52:705][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.03.12-00.10.52:705][  0]Cmd: MAP LOAD FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.12-00.10.53:073][  0]LogFileCache: Scanning file cache for directory 'C:/Users/student/Documents/Unreal Projects/MyGame/Content/' took 0.53s
+[2020.03.12-00.10.53:073][  0]LightingResults: New page: 라이팅 빌드
+[2020.03.12-00.10.53:083][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-00.10.53:084][  0]MapCheck: New page: 맵 체크
+[2020.03.12-00.10.53:084][  0]LightingResults: New page: 라이팅 빌드
+[2020.03.12-00.10.53:119][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.03.12-00.10.58:115][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.03.12-00.10.58:205][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.12-00.10.58:231][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.03.12-00.10.58:231][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.12-00.10.58:231][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.142ms.
+[2020.03.12-00.10.58:231][  0]LogFileHelpers: Loading map 'Minimal_Default' took 5.525
+[2020.03.12-00.10.59:435][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-00.10.59:457][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-00.10.59:470][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-00.10.59:479][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-00.10.59:839][  0]LogCollectionManager: Loaded 0 collections in 0.017231 seconds
+[2020.03.12-00.11.00:119][  0]LogFileCache: Scanning file cache for directory 'C:/Users/student/Documents/Unreal Projects/MyGame/Saved/Collections/' took 0.00s
+[2020.03.12-00.11.00:119][  0]LogFileCache: Scanning file cache for directory 'C:/Users/student/Documents/Unreal Projects/MyGame/Content/Developers/student/Collections/' took 0.00s
+[2020.03.12-00.11.00:119][  0]LogFileCache: Scanning file cache for directory 'C:/Users/student/Documents/Unreal Projects/MyGame/Content/Collections/' took 0.00s
+[2020.03.12-00.11.00:119][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000006 seconds
+[2020.03.12-00.11.00:145][  0]LogContentBrowser: Native class hierarchy populated in 0.0229 seconds. Added 2863 classes and 680 folders.
+[2020.03.12-00.11.00:506][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.03.12-00.11.03:127][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.03.12-00.11.03:256][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2020.03.12-00.11.04:222][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.12-00.11.04:225][  0]LogSlate: Took 0.001837 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2020.03.12-00.11.04:227][  0]LogSlate: Took 0.002002 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2020.03.12-00.11.04:227][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.12-00.11.04:300][  0]LogSlate: Took 0.024331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.12-00.11.04:860][  0]LogRenderer: Reallocating scene render targets to support 636x500 Format 9 NumSamples 1 (Frame:1).
+[2020.03.12-00.11.05:235][  0]LogSlate: Took 0.018440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.12-00.11.05:496][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.12-00.11.05:496][  0]LogLoad: (Engine Initialization) Total time: 25.59 seconds
+[2020.03.12-00.11.05:496][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.12-00.11.05:579][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.03.12-00.11.06:649][  7]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.12-00.11.06:667][  8]LogAssetRegistry: Asset discovery search completed in 21.5446 seconds
+[2020.03.12-00.11.06:671][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2020.03.12-00.11.06:671][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2020.03.12-00.11.09:780][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-00.11.11:747][352]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MY/5BP/BP_MyPlayer.BP_MyPlayer
+[2020.03.12-00.11.12:963][352]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.03.12-00.11.15:086][352]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/MY/3Character/Animations/common_people_run.common_people_run
+[2020.03.12-00.11.15:220][352]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.03.12-00.11.16:022][352]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.12-00.11.16:072][352]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2020.03.12-00.11.16:327][352]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.12-00.11.17:130][352]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/MY/3Character/ABP_MyPlayer.ABP_MyPlayer
+[2020.03.12-00.11.17:173][352]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.12-00.11.17:569][352]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.12-00.11.18:286][352]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MY/5BP/BP_Water.BP_Water
+[2020.03.12-00.11.18:620][352]LogLinker: Warning: '{FileName}': 애셋 이름을 해석할 수 없습니다. 로드에 실패했습니다.
+[2020.03.12-00.11.19:121][352]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MY/6UMG/UMG_UHD.UMG_UHD
+[2020.03.12-00.11.21:183][352]LogSlate: Took 0.024714 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.12-00.11.21:976][352]LogRenderer: Reallocating scene render targets to support 644x516 Format 9 NumSamples 1 (Frame:1).
+[2020.03.12-00.11.21:976][352]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.12-00.11.28:764][736]LogSlate: Window 'common_people_run' being destroyed
+[2020.03.12-00.11.28:780][736]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-00.11.28:823][736]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-00.11.28:982][736]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-00.11.34:446][249]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] 사용 중인  Get Coin  핀은 더 이상  OnPlayerGetCoin  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.03.12-00.11.34:449][249]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] OnPlayerGetCoin  시그너처 오류: 선택된 함수/이벤트를 찾을 수 없습니다: 'OnPlayerGetCoin' - 지워졌나요?
+[2020.03.12-00.11.37:487][249]LogAIModule: Creating AISystem for world MyMap
+[2020.03.12-00.11.37:523][249]LogAssetEditorManager: Opening Asset editor for World /Game/MY/0Map/MyMap.MyMap
+[2020.03.12-00.11.37:602][249]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2020.03.12-00.11.37:603][249]Cmd: MAP LOAD FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.12-00.11.37:603][249]LightingResults: New page: 라이팅 빌드
+[2020.03.12-00.11.37:603][249]LoadErrors: New page: 맵 로드중: MyMap.umap
+[2020.03.12-00.11.37:604][249]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-00.11.37:604][249]MapCheck: New page: 맵 체크
+[2020.03.12-00.11.37:604][249]LightingResults: New page: 라이팅 빌드
+[2020.03.12-00.11.37:648][249]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.03.12-00.11.37:659][249]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.12-00.11.37:701][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.03.12-00.11.37:731][249]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.12-00.11.37:732][249]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 1.701ms.
+[2020.03.12-00.11.37:732][249]LogFileHelpers: Loading map 'MyMap' took 0.130
+[2020.03.12-00.17.29:711][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Ground_Flat_5)
+[2020.03.12-00.17.41:343][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PolygonApocalypse_Bld_House_01)
+[2020.03.12-00.17.43:250][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-00.18.02:090][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-00.18.07:439][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PolygonApocalypse_Bld_House_01)
+[2020.03.12-00.18.16:369][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-00.22.23:483][941]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.03.12-00.22.23:649][941]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] 사용 중인  Get Coin  핀은 더 이상  OnPlayerGetCoin  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.03.12-00.22.23:652][941]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] OnPlayerGetCoin  시그너처 오류: 선택된 함수/이벤트를 찾을 수 없습니다: 'OnPlayerGetCoin' - 지워졌나요?
+[2020.03.12-00.22.23:994][941]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MyMap_Auto1CE9730D24F6476B10A32568EB30B8924.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/Autosaves/Game/MY/0Map/MyMap_Auto1.umap'
+[2020.03.12-00.22.23:997][941]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MY/0Map/MyMap' took 0.610
+[2020.03.12-00.22.23:998][941]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.610
+[2020.03.12-00.30.37:740][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-00.30.43:916][100]LogSlate: Window '부모 클래스 선택' being destroyed
+[2020.03.12-00.32.02:151][604]LogSlate: Window '부모 클래스 선택' being destroyed
+[2020.03.12-00.32.12:639][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Slime" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Slime.uasset" SILENT=true
+[2020.03.12-00.32.12:645][749]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_Slime5783C39C413D363CDE308FA6DC771DE1.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Slime.uasset'
+[2020.03.12-00.32.22:292][845]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MY/5BP/BP_Slime.BP_Slime
+[2020.03.12-00.32.22:769][845]LogRenderer: Reallocating scene render targets to support 664x664 Format 9 NumSamples 1 (Frame:1).
+[2020.03.12-00.32.23:354][870]LogSlate: Took 0.010099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.12-00.32.52:963][489]LogSlate: Window 'BP_Slime' being destroyed
+[2020.03.12-00.32.54:496][586]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-00.32.54:502][586]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-00.32.54:604][586]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-00.32.56:142][685]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-00.32.56:673][719]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-00.32.56:678][719]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-00.32.58:110][809]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.12-00.32.58:110][809]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-00.33.43:585][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-00.33.43:652][427]BlueprintLog: New page: BP_Slime 컴파일
+[2020.03.12-00.33.43:941][427]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2020.03.12-00.33.43:984][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Slime" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Slime.uasset" SILENT=true
+[2020.03.12-00.33.44:020][427]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_SlimeC3C35A2C4E41A9B91372E4B73EDED813.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Slime.uasset'
+[2020.03.12-00.33.47:773][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/0Map/MyMap" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.12-00.33.47:822][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.03.12-00.33.47:846][704]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] 사용 중인  Get Coin  핀은 더 이상  OnPlayerGetCoin  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.03.12-00.33.47:848][704]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] OnPlayerGetCoin  시그너처 오류: 선택된 함수/이벤트를 찾을 수 없습니다: 'OnPlayerGetCoin' - 지워졌나요?
+[2020.03.12-00.33.48:065][704]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MyMap3C2DBB1E4327C25919BDCAA504E36429.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap'
+[2020.03.12-00.33.48:098][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/0Map/MyMap_BuiltData" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap_BuiltData.uasset" SILENT=true
+[2020.03.12-00.33.48:122][704]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MyMap_BuiltDataADDA2BC9482C35BE31B2E29D1457399D.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap_BuiltData.uasset'
+[2020.03.12-00.34.31:699][312]LogAssetEditorManager: Opening Asset editor for Material /Game/MY/1Matirial/MAT_Monster.MAT_Monster
+[2020.03.12-00.34.31:703][312]LogMaterial: Display: Missing cached shader map for material MAT_Monster, compiling. 
+[2020.03.12-00.34.31:841][312]LogMaterial: Display: Missing cached shader map for material MAT_Monster, compiling. 
+[2020.03.12-00.34.31:860][312]LogMaterial: Display: Missing cached shader map for material MAT_Monster, compiling. 
+[2020.03.12-00.34.31:881][312]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.03.12-00.34.31:881][312]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.03.12-00.34.31:881][312]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.03.12-00.34.32:558][363]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.03.12-00.34.32:625][369]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.03.12-00.34.32:814][386]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.03.12-00.34.32:895][393]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.03.12-00.34.32:978][400]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.03.12-00.34.33:125][413]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.03.12-00.34.33:186][418]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.03.12-00.34.33:243][423]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.03.12-00.34.33:429][440]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.03.12-00.34.33:778][479]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.03.12-00.34.33:812][483]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.03.12-00.34.33:912][494]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.03.12-00.34.34:312][539]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.03.12-00.34.34:338][542]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.03.12-00.34.34:416][551]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.03.12-00.34.34:816][589]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.03.12-00.34.34:910][597]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.03.12-00.34.35:120][616]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.03.12-00.34.35:537][652]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.03.12-00.34.35:537][652]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.03.12-00.34.35:537][652]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.03.12-00.34.35:537][652]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.12-00.35.00:758][611]LogMaterial: Display: Missing cached shader map for material MAT_Monster, compiling. 
+[2020.03.12-00.35.00:775][611]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.12-00.35.00:787][611]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.03.12-00.35.00:787][611]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.03.12-00.35.00:787][611]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.03.12-00.35.00:804][611]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.12-00.35.01:476][666]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.03.12-00.35.01:525][670]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.03.12-00.35.01:569][674]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.03.12-00.35.01:896][702]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.03.12-00.35.01:932][705]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.03.12-00.35.02:068][717]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.03.12-00.35.02:228][731]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.03.12-00.35.02:460][754]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.03.12-00.35.02:546][763]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.03.12-00.35.03:225][824]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.03.12-00.35.03:251][826]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.03.12-00.35.03:556][856]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.03.12-00.35.04:211][921]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.03.12-00.35.04:223][922]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.03.12-00.35.04:424][939]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.03.12-00.35.04:994][992]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.03.12-00.35.05:143][  8]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.03.12-00.35.05:151][  9]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.03.12-00.35.05:697][ 67]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.03.12-00.35.05:867][ 83]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.03.12-00.35.05:885][ 84]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.03.12-00.35.05:886][ 84]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.03.12-00.35.05:886][ 84]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.03.12-00.35.05:886][ 84]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.03.12-00.35.05:886][ 84]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.12-00.35.06:399][127]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.03.12-00.35.48:678][765]LogMaterial: Display: Missing cached shader map for material MAT_Monster, compiling. 
+[2020.03.12-00.35.48:699][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.03.12-00.35.48:699][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.03.12-00.35.48:699][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.03.12-00.35.48:699][765]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.12-00.35.49:521][836]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.03.12-00.35.49:531][837]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.03.12-00.35.49:611][844]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.03.12-00.35.50:044][881]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.03.12-00.35.50:119][888]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.03.12-00.35.50:119][888]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.03.12-00.35.50:330][911]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.03.12-00.35.50:504][929]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.03.12-00.35.50:525][931]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2020.03.12-00.35.51:166][991]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.03.12-00.35.51:347][ 10]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.03.12-00.35.51:485][ 25]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.03.12-00.35.51:931][ 69]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.03.12-00.35.52:059][ 80]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.03.12-00.35.52:376][107]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.03.12-00.35.52:968][156]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.03.12-00.35.53:022][161]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.03.12-00.35.53:139][172]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.03.12-00.35.53:724][222]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.03.12-00.35.53:844][234]LogMaterialEditor: Saving and Compiling material MAT_Monster
+[2020.03.12-00.35.54:288][234]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.03.12-00.35.54:288][234]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.03.12-00.35.54:288][234]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.03.12-00.35.54:344][234]LogMaterial: Display: Missing cached shader map for material MAT_Monster, compiling. 
+[2020.03.12-00.35.54:397][234]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.03.12-00.35.54:397][234]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.03.12-00.35.54:418][234]LogMaterial: Display: Missing cached shader map for material MAT_Monster, compiling. 
+[2020.03.12-00.35.54:439][234]LogMaterial: Display: Missing cached shader map for material MAT_Monster, compiling. 
+[2020.03.12-00.35.54:490][234]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.03.12-00.35.54:499][234]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.03.12-00.35.56:626][234]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2020.03.12-00.35.56:627][234]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2020.03.12-00.35.56:627][234]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.03.12-00.35.56:628][234]TextureStreamingBuild: Display: Compiling optional shaders took 2.139 seconds.
+[2020.03.12-00.35.56:667][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.03.12-00.35.58:554][234]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.03.12-00.35.58:554][234]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.03.12-00.35.58:554][234]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.03.12-00.35.58:598][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/1Matirial/MAT_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/1Matirial/MAT_Monster.uasset" SILENT=true
+[2020.03.12-00.35.58:624][234]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MAT_Monster4DE056274ECC4633C7661A93706EB625.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/1Matirial/MAT_Monster.uasset'
+[2020.03.12-00.35.58:650][234]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.03.12-00.35.58:650][234]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.03.12-00.35.58:650][234]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.12-00.35.58:650][234]MaterialEditorStats: Texture samplers: 4/16
+[2020.03.12-00.35.58:650][234]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.12-00.35.58:650][234]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.12-00.36.30:393][ 44]LogMaterial: Display: Missing cached shader map for material MAT_Monster, compiling. 
+[2020.03.12-00.36.30:429][ 45]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.03.12-00.36.30:429][ 45]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.03.12-00.36.30:429][ 45]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.03.12-00.36.31:195][112]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2020.03.12-00.36.31:195][112]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.03.12-00.36.31:347][125]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.03.12-00.36.31:642][150]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.03.12-00.36.31:740][158]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.03.12-00.36.31:740][158]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.03.12-00.36.32:006][181]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.03.12-00.36.32:179][196]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.03.12-00.36.32:308][207]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.03.12-00.36.32:802][249]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.03.12-00.36.32:921][259]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.03.12-00.36.33:165][280]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.03.12-00.36.33:611][325]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.03.12-00.36.33:720][337]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.03.12-00.36.33:929][360]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.03.12-00.36.34:452][416]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.03.12-00.36.34:592][431]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.03.12-00.36.34:782][447]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.03.12-00.36.36:392][620]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.03.12-00.36.36:392][620]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.03.12-00.36.36:392][620]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.12-00.36.36:392][620]MaterialEditorStats: Texture samplers: 4/16
+[2020.03.12-00.36.36:392][620]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.12-00.36.36:392][620]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.12-00.36.38:044][780]LogMaterial: Display: Missing cached shader map for material MAT_Monster, compiling. 
+[2020.03.12-00.36.38:069][781]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.03.12-00.36.38:069][781]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.03.12-00.36.38:069][781]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.03.12-00.36.38:590][827]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2020.03.12-00.36.38:704][837]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.03.12-00.36.38:761][842]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.03.12-00.36.39:175][882]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.03.12-00.36.39:213][886]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.03.12-00.36.39:241][889]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.03.12-00.36.39:412][908]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.03.12-00.36.39:618][931]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.03.12-00.36.39:664][936]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.03.12-00.36.40:269][996]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.03.12-00.36.40:490][ 15]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.03.12-00.36.40:651][ 29]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.03.12-00.36.41:311][ 85]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.03.12-00.36.41:323][ 86]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.03.12-00.36.41:523][104]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.03.12-00.36.41:584][108]LogMaterial: Display: Missing cached shader map for material MAT_Monster, compiling. 
+[2020.03.12-00.36.42:071][149]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.03.12-00.36.42:280][167]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.03.12-00.36.42:410][178]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.03.12-00.36.42:553][193]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2020.03.12-00.36.42:729][212]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.03.12-00.36.42:894][230]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.03.12-00.36.43:026][244]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.03.12-00.36.43:087][251]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.03.12-00.36.43:309][271]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.03.12-00.36.43:366][276]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.03.12-00.36.43:665][302]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.03.12-00.36.43:801][317]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.03.12-00.36.44:270][368]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.03.12-00.36.44:376][380]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.03.12-00.36.44:614][403]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.03.12-00.36.45:264][459]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.03.12-00.36.45:404][471]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.03.12-00.36.45:404][471]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.03.12-00.36.45:955][522]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.03.12-00.36.46:184][546]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.03.12-00.36.46:391][565]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.03.12-00.36.47:691][706]LogMaterial: Display: Missing cached shader map for material MAT_Monster, compiling. 
+[2020.03.12-00.36.47:715][707]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.03.12-00.36.47:715][707]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.03.12-00.36.47:715][707]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.03.12-00.36.48:201][750]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.03.12-00.36.48:259][755]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.03.12-00.36.48:374][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.03.12-00.36.48:658][788]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.03.12-00.36.48:779][800]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.03.12-00.36.48:844][807]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.03.12-00.36.49:031][827]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.03.12-00.36.49:144][839]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.03.12-00.36.49:281][854]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.03.12-00.36.49:476][872]LogMaterial: Display: Missing cached shader map for material MAT_Monster, compiling. 
+[2020.03.12-00.36.49:905][909]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.03.12-00.36.49:905][909]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.03.12-00.36.50:183][933]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.03.12-00.36.50:460][957]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2020.03.12-00.36.50:495][960]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.03.12-00.36.50:670][975]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.03.12-00.36.51:080][ 11]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.03.12-00.36.51:154][ 18]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.03.12-00.36.51:163][ 19]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.03.12-00.36.51:427][ 43]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.03.12-00.36.51:567][ 55]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.03.12-00.36.51:741][ 70]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.03.12-00.36.52:435][130]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.03.12-00.36.52:482][134]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.03.12-00.36.52:750][157]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.03.12-00.36.53:435][215]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.03.12-00.36.53:541][224]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.03.12-00.36.53:599][229]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.03.12-00.36.54:023][266]LogMaterialEditor: Saving and Compiling material MAT_Monster
+[2020.03.12-00.36.54:463][266]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.03.12-00.36.54:463][266]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.03.12-00.36.54:463][266]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.03.12-00.36.54:492][266]LogMaterial: Display: Missing cached shader map for material MAT_Monster, compiling. 
+[2020.03.12-00.36.54:599][266]LogMaterial: Display: Missing cached shader map for material MAT_Monster, compiling. 
+[2020.03.12-00.36.54:714][266]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.03.12-00.36.54:715][266]LogMaterial: Display: Missing cached shader map for material MAT_Monster, compiling. 
+[2020.03.12-00.36.54:729][266]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.03.12-00.36.54:729][266]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.03.12-00.36.54:761][266]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.03.12-00.36.54:770][266]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.12-00.36.56:831][266]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2020.03.12-00.36.56:831][266]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2020.03.12-00.36.56:831][266]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2020.03.12-00.36.56:831][266]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2020.03.12-00.36.56:831][266]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.03.12-00.36.56:831][266]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2020.03.12-00.36.56:831][266]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2020.03.12-00.36.56:831][266]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2020.03.12-00.36.56:831][266]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.03.12-00.36.56:831][266]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2020.03.12-00.36.56:831][266]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.03.12-00.36.56:831][266]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.03.12-00.36.56:831][266]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.03.12-00.36.56:831][266]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2020.03.12-00.36.56:831][266]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.03.12-00.36.56:831][266]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.03.12-00.36.56:831][266]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.03.12-00.36.56:831][266]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.03.12-00.36.56:832][266]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2020.03.12-00.36.56:832][266]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2020.03.12-00.36.56:832][266]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2020.03.12-00.36.56:832][266]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.03.12-00.36.56:832][266]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.03.12-00.36.56:833][266]TextureStreamingBuild: Display: Compiling optional shaders took 2.072 seconds.
+[2020.03.12-00.36.56:867][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.03.12-00.36.58:774][266]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.03.12-00.36.58:774][266]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.03.12-00.36.58:774][266]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.03.12-00.36.58:805][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/1Matirial/MAT_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/1Matirial/MAT_Monster.uasset" SILENT=true
+[2020.03.12-00.36.58:846][266]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MAT_MonsterAFDAE32F4B1A159F24B1E9A1E63B6F77.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/1Matirial/MAT_Monster.uasset'
+[2020.03.12-00.36.58:864][266]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.03.12-00.36.58:864][266]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.03.12-00.36.58:864][266]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.12-00.36.58:864][266]MaterialEditorStats: Texture samplers: 4/16
+[2020.03.12-00.36.58:864][266]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.12-00.36.58:864][266]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.12-00.37.22:924][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-00.37.23:580][333]LogSlate: Window 'MAT_Monster' being destroyed
+[2020.03.12-00.37.37:610][647]LogMaterial: Display: Material /Game/MY/1Matirial/MAT_Monster.MAT_Monster needed to have new flag set bUsedWithSkeletalMesh !
+[2020.03.12-00.37.37:610][647]LogMaterial: Display: Material /Engine/Transient.MAT_Monster needed to have new flag set bUsedWithSkeletalMesh !
+[2020.03.12-00.37.37:615][647]LogMaterial: Display: Missing cached shader map for material MAT_Monster, compiling. 
+[2020.03.12-00.37.37:678][647]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 59
+[2020.03.12-00.37.37:678][647]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 58
+[2020.03.12-00.37.37:678][647]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 57
+[2020.03.12-00.37.37:678][647]LogMaterial: Display: Missing cached shader map for material MAT_Monster, compiling. 
+[2020.03.12-00.37.38:086][665]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 116
+[2020.03.12-00.37.38:191][670]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 115
+[2020.03.12-00.37.38:488][684]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 114
+[2020.03.12-00.37.38:503][685]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 113
+[2020.03.12-00.37.38:636][691]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 112
+[2020.03.12-00.37.38:840][700]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 111
+[2020.03.12-00.37.38:901][703]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 110
+[2020.03.12-00.37.38:903][703]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 109
+[2020.03.12-00.37.39:224][720]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 108
+[2020.03.12-00.37.39:592][742]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 107
+[2020.03.12-00.37.39:644][745]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 106
+[2020.03.12-00.37.39:665][746]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 105
+[2020.03.12-00.37.40:015][766]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 104
+[2020.03.12-00.37.40:165][775]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 103
+[2020.03.12-00.37.40:245][779]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 102
+[2020.03.12-00.37.40:560][797]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 101
+[2020.03.12-00.37.40:590][799]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 100
+[2020.03.12-00.37.40:778][810]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 99
+[2020.03.12-00.37.41:073][827]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 98
+[2020.03.12-00.37.41:142][831]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 97
+[2020.03.12-00.37.41:205][835]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 96
+[2020.03.12-00.37.41:360][844]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 95
+[2020.03.12-00.37.41:397][846]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 94
+[2020.03.12-00.37.41:473][850]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 93
+[2020.03.12-00.37.41:610][858]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 92
+[2020.03.12-00.37.41:655][861]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 91
+[2020.03.12-00.37.41:724][865]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 90
+[2020.03.12-00.37.41:839][872]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 89
+[2020.03.12-00.37.42:130][889]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 88
+[2020.03.12-00.37.42:138][889]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 87
+[2020.03.12-00.37.42:191][892]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 86
+[2020.03.12-00.37.42:477][909]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 85
+[2020.03.12-00.37.42:584][915]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 84
+[2020.03.12-00.37.42:601][916]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 83
+[2020.03.12-00.37.42:877][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 82
+[2020.03.12-00.37.42:937][936]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 81
+[2020.03.12-00.37.43:110][946]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 80
+[2020.03.12-00.37.43:280][956]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 79
+[2020.03.12-00.37.43:341][959]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 78
+[2020.03.12-00.37.43:385][962]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 77
+[2020.03.12-00.37.43:581][973]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 76
+[2020.03.12-00.37.43:588][974]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 75
+[2020.03.12-00.37.43:645][977]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 74
+[2020.03.12-00.37.43:832][988]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 73
+[2020.03.12-00.37.43:838][988]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 72
+[2020.03.12-00.37.43:858][989]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 71
+[2020.03.12-00.37.44:075][  2]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 70
+[2020.03.12-00.37.44:310][ 16]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 69
+[2020.03.12-00.37.44:316][ 16]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2020.03.12-00.37.44:362][ 19]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 67
+[2020.03.12-00.37.44:669][ 37]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 66
+[2020.03.12-00.37.44:780][ 43]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 65
+[2020.03.12-00.37.44:825][ 46]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 64
+[2020.03.12-00.37.45:101][ 62]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 63
+[2020.03.12-00.37.45:133][ 64]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 62
+[2020.03.12-00.37.45:271][ 72]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 61
+[2020.03.12-00.37.45:483][ 84]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2020.03.12-00.37.45:538][ 87]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2020.03.12-00.37.45:555][ 88]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2020.03.12-00.37.48:530][283]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2020.03.12-00.37.48:743][303]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.03.12-00.37.48:756][304]LogMaterialEditor: Saving and Compiling material MAT_Monster
+[2020.03.12-00.37.48:768][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/1Matirial/MAT_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/1Matirial/MAT_Monster.uasset" SILENT=true
+[2020.03.12-00.37.48:794][304]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MAT_MonsterDA3E6C2048C2B03D382648B9DA2EDDBE.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/1Matirial/MAT_Monster.uasset'
+[2020.03.12-00.37.50:646][461]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.03.12-00.37.51:043][495]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.03.12-00.37.52:431][612]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.03.12-00.37.52:821][645]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.03.12-00.37.52:970][659]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.03.12-00.37.53:520][694]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.03.12-00.37.53:520][694]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.03.12-00.37.53:520][694]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.12-00.37.53:520][694]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2020.03.12-00.37.53:520][694]MaterialEditorStats: Texture samplers: 4/16
+[2020.03.12-00.37.53:520][694]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.12-00.37.53:520][694]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.12-00.37.56:980][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Slime" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Slime.uasset" SILENT=true
+[2020.03.12-00.37.57:007][901]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_Slime476195614CF2DB40480D739E99412D77.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Slime.uasset'
+[2020.03.12-00.38.33:760][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-00.38.33:942][339]BlueprintLog: New page: BP_Slime 컴파일
+[2020.03.12-00.38.34:123][339]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.03.12-00.38.36:177][479]LogMaterialEditor: Saving and Compiling material MAT_Monster
+[2020.03.12-00.38.36:191][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/1Matirial/MAT_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/1Matirial/MAT_Monster.uasset" SILENT=true
+[2020.03.12-00.38.36:214][479]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MAT_Monster24B2F0814020EB296DE44BB94D164D03.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/1Matirial/MAT_Monster.uasset'
+[2020.03.12-00.39.14:279][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-00.39.25:586][478]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.03.12-00.39.36:055][478]LogSlate: Window '애니메이션 블루프린트 생성' being destroyed
+[2020.03.12-00.40.05:766][789]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/MY/4Monster/ABP_Slime.ABP_Slime
+[2020.03.12-00.40.05:782][789]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.12-00.40.06:044][789]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.12-00.41.36:207][885]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.12-00.43.54:828][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/4Monster/ABP_Slime" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset" SILENT=true
+[2020.03.12-00.43.54:855][276]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/ABP_Slime13131EEC4EB3FE6AB2AC63BC585AB9F2.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset'
+[2020.03.12-00.43.57:624][524]BlueprintLog: New page: ABP_Slime 컴파일
+[2020.03.12-00.43.57:628][524]LogBlueprint: Warning: [Compiler ABP_Slime] Idle -> Walk  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-00.43.57:628][524]LogBlueprint: Warning: [Compiler ABP_Slime] Walk -> Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-00.43.57:629][524]LogBlueprint: Warning: [Compiler ABP_Slime] Idle -> Die  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-00.43.57:629][524]LogBlueprint: Warning: [Compiler ABP_Slime] Walk -> Die  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-00.43.57:817][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.03.12-00.44.10:404][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/4Monster/ABP_Slime" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset" SILENT=true
+[2020.03.12-00.44.10:462][627]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/ABP_SlimeB609B23B4DDA9C4E7DECDDB4B3900116.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset'
+[2020.03.12-00.45.15:462][428]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.03.12-00.45.15:463][428]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MY/0Map/MyMap' took 0.037
+[2020.03.12-00.45.15:464][428]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MY/5BP/BP_Monster] ([1] browsable assets)...
+[2020.03.12-00.45.15:465][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/MY/5BP/BP_Monster]
+[2020.03.12-00.45.15:471][428]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_Monster_Auto2BBB2A835483D8E891BD4CDBF61699EC3.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/Autosaves/Game/MY/5BP/BP_Monster_Auto2.uasset'
+[2020.03.12-00.45.15:482][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MY/4Monster/ABP_Slime] ([1] browsable assets)...
+[2020.03.12-00.45.15:493][428]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/MY/4Monster/ABP_Slime.ABP_Slime]
+[2020.03.12-00.45.15:493][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/MY/4Monster/ABP_Slime]
+[2020.03.12-00.45.15:540][428]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/ABP_Slime_Auto2ADC0F31648989DA696055A801B328E69.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/Autosaves/Game/MY/4Monster/ABP_Slime_Auto2.uasset'
+[2020.03.12-00.45.15:540][428]LogFileHelpers: Auto-saving content packages took 0.077
+[2020.03.12-00.47.52:990][799]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/MY/5BP/BPE_MonsterState.BPE_MonsterState
+[2020.03.12-00.49.41:868][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BPE_MonsterState" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BPE_MonsterState.uasset" SILENT=true
+[2020.03.12-00.49.41:870][828]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BPE_MonsterStateE4D5CB0B485DFD7C53D921A3F0E22C52.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BPE_MonsterState.uasset'
+[2020.03.12-00.49.45:679][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BPE_MonsterState" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BPE_MonsterState.uasset" SILENT=true
+[2020.03.12-00.49.45:702][282]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BPE_MonsterState3C8EC5494522ADE8CB75E0A491D495BE.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BPE_MonsterState.uasset'
+[2020.03.12-00.50.31:739][678]LogSlate: Took 0.007555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.12-00.50.54:324][221]BlueprintLog: New page: BP_Slime 컴파일
+[2020.03.12-00.50.54:507][221]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.03.12-00.50.54:549][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Slime" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Slime.uasset" SILENT=true
+[2020.03.12-00.50.54:584][221]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_SlimeC67C6EBE4D1B7D5463199BAFF3B75489.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Slime.uasset'
+[2020.03.12-00.51.16:992][566]BlueprintLog: New page: BP_Slime 컴파일
+[2020.03.12-00.51.17:172][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.03.12-00.51.17:218][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Slime" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Slime.uasset" SILENT=true
+[2020.03.12-00.51.17:252][566]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_SlimeE1F99CBB4A946A20208CF6B0B824A5F4.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Slime.uasset'
+[2020.03.12-00.51.17:794][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Slime" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Slime.uasset" SILENT=true
+[2020.03.12-00.51.17:821][592]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_Slime64D4CE824CF1FACE1DA70CAAE96D7283.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Slime.uasset'
+[2020.03.12-00.52.22:469][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/4Monster/ABP_Slime" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset" SILENT=true
+[2020.03.12-00.52.22:508][ 41]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/ABP_Slime656C086B45C9EF7746355396237564E2.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset'
+[2020.03.12-00.53.25:878][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/4Monster/ABP_Slime" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset" SILENT=true
+[2020.03.12-00.53.25:925][676]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/ABP_SlimeD2CEF5F64E4C1E369AEF78939BB823E0.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset'
+[2020.03.12-00.53.32:336][240]BlueprintLog: New page: ABP_Slime 컴파일
+[2020.03.12-00.53.32:340][240]LogBlueprint: Warning: [Compiler ABP_Slime] Idle -> Walk  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-00.53.32:341][240]LogBlueprint: Warning: [Compiler ABP_Slime] Walk -> Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-00.53.32:341][240]LogBlueprint: Warning: [Compiler ABP_Slime] Idle -> Die  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-00.53.32:341][240]LogBlueprint: Warning: [Compiler ABP_Slime] Walk -> Die  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-00.53.32:523][240]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.03.12-00.53.33:535][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/4Monster/ABP_Slime" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset" SILENT=true
+[2020.03.12-00.53.33:581][309]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/ABP_Slime7EBEAF0449AC138DE1B35EA1A84A8739.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset'
+[2020.03.12-00.53.44:445][262]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-00.55.24:065][708]BlueprintLog: New page: ABP_Slime 컴파일
+[2020.03.12-00.55.24:070][708]LogBlueprint: Warning: [Compiler ABP_Slime] Idle -> Walk  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-00.55.24:070][708]LogBlueprint: Warning: [Compiler ABP_Slime] Walk -> Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-00.55.24:070][708]LogBlueprint: Warning: [Compiler ABP_Slime] Idle -> Die  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-00.55.24:070][708]LogBlueprint: Warning: [Compiler ABP_Slime] Walk -> Die  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-00.55.24:268][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.03.12-00.55.25:700][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/4Monster/ABP_Slime" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset" SILENT=true
+[2020.03.12-00.55.25:750][825]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/ABP_Slime7C517749461AA558A489709F64DDFAA1.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset'
+[2020.03.12-00.58.08:066][713]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={6C46A6CF-41D8-F35A-C96B-E5BF153C093E}
+[2020.03.12-00.58.50:438][574]LogHttp: Warning: 000001F55458FD80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6BD54ACB-43AD-3151-44C2-A3A6BFDB66EB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f7ef13bb46c4fcb69a7ce4bdbd33d8fa%7C3847e54605594d48b03aae1fe88b15b0%7C4466b361-ff5c-4fff-b9b2-d7318607d7b8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.03.12-00.58.50:438][574]LogHttp: Warning: 000001F55458FD80: request failed, libcurl error: 0 (No error)
+[2020.03.12-00.58.50:438][574]LogHttp: Warning: 000001F55458FD80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f489a87f70 [can pipeline])
+[2020.03.12-00.58.50:438][574]LogHttp: Warning: 000001F55458FD80: libcurl info message cache 1 (Re-using existing connection! (#17) with host datarouter.ol.epicgames.com)
+[2020.03.12-00.58.50:438][574]LogHttp: Warning: 000001F55458FD80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.45.123.19) port 443 (#17))
+[2020.03.12-00.58.50:438][574]LogHttp: Warning: 000001F55458FD80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.03.12-00.58.50:438][574]LogHttp: Warning: 000001F55458FD80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.03.12-00.58.50:438][574]LogHttp: Warning: 000001F55458FD80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.03.12-00.58.50:438][574]LogHttp: Warning: 000001F55458FD80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.03.12-00.58.50:438][574]LogHttp: Warning: 000001F55458FD80: libcurl info message cache 7 (Closing connection 17)
+[2020.03.12-00.58.50:438][574]LogHttp: Warning: 000001F55458FD80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.03.12-00.58.50:438][574]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6BD54ACB-43AD-3151-44C2-A3A6BFDB66EB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f7ef13bb46c4fcb69a7ce4bdbd33d8fa%7C3847e54605594d48b03aae1fe88b15b0%7C4466b361-ff5c-4fff-b9b2-d7318607d7b8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.12-00.59.46:309][714]BlueprintLog: New page: ABP_Slime 컴파일
+[2020.03.12-00.59.46:313][714]LogBlueprint: Warning: [Compiler ABP_Slime] '%s' 가 '%s' 에서 상속되지 않습니다 ( BP_Slime 에 형변환  는 반드시 실패할 것입니다).
+[2020.03.12-00.59.46:314][714]LogBlueprint: Warning: [Compiler ABP_Slime] Idle -> Walk  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-00.59.46:314][714]LogBlueprint: Warning: [Compiler ABP_Slime] Walk -> Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-00.59.46:314][714]LogBlueprint: Warning: [Compiler ABP_Slime] Idle -> Die  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-00.59.46:314][714]LogBlueprint: Warning: [Compiler ABP_Slime] Walk -> Die  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-00.59.46:315][714]LogBlueprint: Warning: [Compiler ABP_Slime] '%s' 가 '%s' 에서 상속되지 않습니다 ( BP_Slime 에 형변환  는 반드시 실패할 것입니다).
+[2020.03.12-00.59.46:512][714]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.03.12-00.59.47:233][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/4Monster/ABP_Slime" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset" SILENT=true
+[2020.03.12-00.59.47:284][769]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/ABP_SlimeCB4FD1CC49ABB5107592E49B61490A1D.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset'
+[2020.03.12-01.00.04:853][428]BlueprintLog: New page: ABP_Slime 컴파일
+[2020.03.12-01.00.04:856][428]LogBlueprint: Warning: [Compiler ABP_Slime] '%s' 가 '%s' 에서 상속되지 않습니다 ( BP_Slime 에 형변환  는 반드시 실패할 것입니다).
+[2020.03.12-01.00.04:857][428]LogBlueprint: Warning: [Compiler ABP_Slime] Idle -> Walk  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-01.00.04:857][428]LogBlueprint: Warning: [Compiler ABP_Slime] Walk -> Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-01.00.04:858][428]LogBlueprint: Warning: [Compiler ABP_Slime] Idle -> Die  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-01.00.04:858][428]LogBlueprint: Warning: [Compiler ABP_Slime] Walk -> Die  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-01.00.04:859][428]LogBlueprint: Warning: [Compiler ABP_Slime] '%s' 가 '%s' 에서 상속되지 않습니다 ( BP_Slime 에 형변환  는 반드시 실패할 것입니다).
+[2020.03.12-01.00.05:050][428]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.03.12-01.01.04:202][ 28]BlueprintLog: New page: ABP_Slime 컴파일
+[2020.03.12-01.01.04:206][ 28]LogBlueprint: Warning: [Compiler ABP_Slime] '%s' 가 '%s' 에서 상속되지 않습니다 ( BP_Slime 에 형변환  는 반드시 실패할 것입니다).
+[2020.03.12-01.01.04:207][ 28]LogBlueprint: Warning: [Compiler ABP_Slime] Walk -> Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-01.01.04:208][ 28]LogBlueprint: Warning: [Compiler ABP_Slime] Idle -> Die  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-01.01.04:208][ 28]LogBlueprint: Warning: [Compiler ABP_Slime] Walk -> Die  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-01.01.04:209][ 28]LogBlueprint: Warning: [Compiler ABP_Slime] '%s' 가 '%s' 에서 상속되지 않습니다 ( BP_Slime 에 형변환  는 반드시 실패할 것입니다).
+[2020.03.12-01.01.04:399][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.03.12-01.01.36:701][ 84]BlueprintLog: New page: ABP_Slime 컴파일
+[2020.03.12-01.01.36:705][ 84]LogBlueprint: Warning: [Compiler ABP_Slime] '%s' 가 '%s' 에서 상속되지 않습니다 ( BP_Slime 에 형변환  는 반드시 실패할 것입니다).
+[2020.03.12-01.01.36:706][ 84]LogBlueprint: Warning: [Compiler ABP_Slime] Idle -> Die  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-01.01.36:706][ 84]LogBlueprint: Warning: [Compiler ABP_Slime] Walk -> Die  will never be taken, please connect something to  Can Enter Transition
+[2020.03.12-01.01.36:708][ 84]LogBlueprint: Warning: [Compiler ABP_Slime] '%s' 가 '%s' 에서 상속되지 않습니다 ( BP_Slime 에 형변환  는 반드시 실패할 것입니다).
+[2020.03.12-01.01.36:900][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.03.12-01.03.02:654][134]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.03.12-01.03.02:654][134]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MY/0Map/MyMap' took 0.043
+[2020.03.12-01.03.02:656][134]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MY/4Monster/ABP_Slime] ([1] browsable assets)...
+[2020.03.12-01.03.02:675][134]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/MY/4Monster/ABP_Slime.ABP_Slime]
+[2020.03.12-01.03.02:675][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/MY/4Monster/ABP_Slime]
+[2020.03.12-01.03.02:735][134]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/ABP_Slime_Auto3185F6D874038456CE041F685251D6A11.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/Autosaves/Game/MY/4Monster/ABP_Slime_Auto3.uasset'
+[2020.03.12-01.03.02:737][134]LogFileHelpers: Auto-saving content packages took 0.082
+[2020.03.12-01.05.13:466][582]BlueprintLog: New page: ABP_Slime 컴파일
+[2020.03.12-01.05.13:471][582]LogBlueprint: Warning: [Compiler ABP_Slime] '%s' 가 '%s' 에서 상속되지 않습니다 ( BP_Slime 에 형변환  는 반드시 실패할 것입니다).
+[2020.03.12-01.05.13:474][582]LogBlueprint: Warning: [Compiler ABP_Slime] '%s' 가 '%s' 에서 상속되지 않습니다 ( BP_Slime 에 형변환  는 반드시 실패할 것입니다).
+[2020.03.12-01.05.13:671][582]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.03.12-01.05.14:518][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/4Monster/ABP_Slime" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset" SILENT=true
+[2020.03.12-01.05.14:575][640]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/ABP_Slime282A3B74493997A744C61185A6207286.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset'
+[2020.03.12-01.06.16:962][319]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.12-01.06.20:330][629]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MY/5BP/BP_Monster.BP_Monster
+[2020.03.12-01.06.52:180][985]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/MY/5BP/BP_Monster.BP_Monster from Actor to Pawn...
+[2020.03.12-01.06.52:184][985]BlueprintLog: New page: BP_Monster 컴파일
+[2020.03.12-01.06.52:387][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.03.12-01.06.52:416][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset" SILENT=true
+[2020.03.12-01.06.52:422][985]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_Monster27B01AD54B62B2029AA0F49C4B55F994.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset'
+[2020.03.12-01.06.54:606][110]BlueprintLog: New page: BP_Monster 컴파일
+[2020.03.12-01.06.54:804][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.03.12-01.06.55:383][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset" SILENT=true
+[2020.03.12-01.06.55:410][139]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_Monster2A3A1D3A4A99FB80A15B179357DE91B3.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset'
+[2020.03.12-01.06.59:965][442]BlueprintLog: New page: ABP_Slime 컴파일
+[2020.03.12-01.07.00:176][442]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.03.12-01.07.00:206][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/4Monster/ABP_Slime" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset" SILENT=true
+[2020.03.12-01.07.00:264][442]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/ABP_Slime436ED1AB47B23FE4CBA332BBA2C381BF.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset'
+[2020.03.12-01.09.10:191][296]LogSlate: Window '부모 클래스 선택' being destroyed
+[2020.03.12-01.09.48:996][582]LogSlate: Window '부모 클래스 선택' being destroyed
+[2020.03.12-01.12.55:933][722]BlueprintLog: New page: ABP_Slime 컴파일
+[2020.03.12-01.12.56:155][722]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.03.12-01.12.58:910][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/0Map/MyMap" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.12-01.12.58:948][960]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.03.12-01.12.58:984][960]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] 사용 중인  Get Coin  핀은 더 이상  OnPlayerGetCoin  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.03.12-01.12.58:986][960]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] OnPlayerGetCoin  시그너처 오류: 선택된 함수/이벤트를 찾을 수 없습니다: 'OnPlayerGetCoin' - 지워졌나요?
+[2020.03.12-01.12.59:216][960]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MyMapD2A4296C412CCCA4B5DB6B9C19CDC94B.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap'
+[2020.03.12-01.12.59:252][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/0Map/MyMap_BuiltData" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap_BuiltData.uasset" SILENT=true
+[2020.03.12-01.12.59:275][960]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MyMap_BuiltData87EB4D5E4BF63DA0E051578F5AE95656.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap_BuiltData.uasset'
+[2020.03.12-01.13.18:431][165]LogEditorTransaction: Undo 변수 제거
+[2020.03.12-01.13.18:515][165]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.12-01.13.21:410][369]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/MY/5BP/BPE_MonsterState.BPE_MonsterState
+[2020.03.12-01.13.34:323][363]LogBlueprint: Warning: Blueprint BP_Slime (child of/implements BP_Monster) has a member variable with a conflicting name (CurState). Changing to CurState_0.
+[2020.03.12-01.13.40:463][759]BlueprintLog: New page: BP_Monster 컴파일
+[2020.03.12-01.13.40:469][759]LogClass: Warning: Type mismatch in CurState of BP_Slime_C - Previous (ByteProperty) Current(BoolProperty) for package:  FObjectReader
+[2020.03.12-01.13.40:666][759]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.03.12-01.13.40:698][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset" SILENT=true
+[2020.03.12-01.13.40:724][759]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_MonsterE29C1C50496886906CF599AD82DE03FE.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset'
+[2020.03.12-01.13.40:750][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Slime" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Slime.uasset" SILENT=true
+[2020.03.12-01.13.40:785][759]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_Slime708CD99F439BC4F9CCA9D4B49D6BDC14.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Slime.uasset'
+[2020.03.12-01.13.42:283][840]BlueprintLog: New page: BP_Slime 컴파일
+[2020.03.12-01.13.42:479][840]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.03.12-01.13.44:722][987]BlueprintLog: New page: ABP_Slime 컴파일
+[2020.03.12-01.13.44:727][987]LogBlueprint: Warning: [Compiler ABP_Slime] 'BP_Slime_C' 에서 "CurState_0" 라는 이름의 변수를 찾을 수 없습니다.
+ CurState_0 구하기  에 대해 'BP_Slime_C' 컴파일이 되었는지 확인하세요.
+[2020.03.12-01.13.44:730][987]LogBlueprint: Warning: [Compiler ABP_Slime] 'BP_Slime_C' 에서 "CurState_0" 라는 이름의 변수를 찾을 수 없습니다.
+ CurState_0 구하기  에 대해 'BP_Slime_C' 컴파일이 되었는지 확인하세요.
+[2020.03.12-01.13.44:731][987]LogBlueprint: Error: [Compiler ABP_Slime] Cur State 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2020.03.12-01.13.44:922][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.03.12-01.13.45:385][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/4Monster/ABP_Slime" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset" SILENT=true
+[2020.03.12-01.13.45:441][ 16]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/ABP_SlimeCA2821244FDAFBCE165D22A73D7A895D.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset'
+[2020.03.12-01.13.47:564][216]BlueprintLog: New page: ABP_Slime 컴파일
+[2020.03.12-01.13.47:568][216]LogBlueprint: Warning: [Compiler ABP_Slime] 'BP_Slime_C' 에서 "CurState_0" 라는 이름의 변수를 찾을 수 없습니다.
+ CurState_0 구하기  에 대해 'BP_Slime_C' 컴파일이 되었는지 확인하세요.
+[2020.03.12-01.13.47:571][216]LogBlueprint: Warning: [Compiler ABP_Slime] 'BP_Slime_C' 에서 "CurState_0" 라는 이름의 변수를 찾을 수 없습니다.
+ CurState_0 구하기  에 대해 'BP_Slime_C' 컴파일이 되었는지 확인하세요.
+[2020.03.12-01.13.47:572][216]LogBlueprint: Error: [Compiler ABP_Slime] Cur State 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2020.03.12-01.13.47:761][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.03.12-01.14.30:861][233]BlueprintLog: New page: BP_Monster 컴파일
+[2020.03.12-01.14.30:867][233]LogClass: Warning: Type mismatch in CurState of BP_Monster_C - Previous (BoolProperty) Current(ByteProperty) for package:  FObjectReader
+[2020.03.12-01.14.30:867][233]LogClass: Warning: Type mismatch in CurState of BP_Slime_C - Previous (BoolProperty) Current(ByteProperty) for package:  FObjectReader
+[2020.03.12-01.14.31:061][233]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.03.12-01.14.31:090][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset" SILENT=true
+[2020.03.12-01.14.31:117][233]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_MonsterBFAD8D2A4167F16FD40347844396A871.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset'
+[2020.03.12-01.14.33:810][415]BlueprintLog: New page: ABP_Slime 컴파일
+[2020.03.12-01.14.33:814][415]LogBlueprint: Warning: [Compiler ABP_Slime] 'BP_Slime_C' 에서 "CurState_0" 라는 이름의 변수를 찾을 수 없습니다.
+ CurState_0 구하기  에 대해 'BP_Slime_C' 컴파일이 되었는지 확인하세요.
+[2020.03.12-01.14.33:816][415]LogBlueprint: Warning: [Compiler ABP_Slime] 'BP_Slime_C' 에서 "CurState_0" 라는 이름의 변수를 찾을 수 없습니다.
+ CurState_0 구하기  에 대해 'BP_Slime_C' 컴파일이 되었는지 확인하세요.
+[2020.03.12-01.14.33:818][415]LogBlueprint: Error: [Compiler ABP_Slime] Cur State 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2020.03.12-01.14.34:006][415]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.03.12-01.15.00:172][813]BlueprintLog: New page: ABP_Slime 컴파일
+[2020.03.12-01.15.00:375][813]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.03.12-01.15.00:418][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/4Monster/ABP_Slime" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset" SILENT=true
+[2020.03.12-01.15.00:476][813]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/ABP_SlimeBA71F317404169D07A24AAB50062E576.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/4Monster/ABP_Slime.uasset'
+[2020.03.12-01.17.05:665][736]LogHttp: Warning: 000001F55BD9CF40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6BD54ACB-43AD-3151-44C2-A3A6BFDB66EB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f7ef13bb46c4fcb69a7ce4bdbd33d8fa%7C3847e54605594d48b03aae1fe88b15b0%7C4466b361-ff5c-4fff-b9b2-d7318607d7b8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.03.12-01.17.05:666][736]LogHttp: Warning: 000001F55BD9CF40: request failed, libcurl error: 0 (No error)
+[2020.03.12-01.17.05:666][736]LogHttp: Warning: 000001F55BD9CF40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f489a87f70 [can pipeline])
+[2020.03.12-01.17.05:666][736]LogHttp: Warning: 000001F55BD9CF40: libcurl info message cache 1 (Re-using existing connection! (#23) with host datarouter.ol.epicgames.com)
+[2020.03.12-01.17.05:666][736]LogHttp: Warning: 000001F55BD9CF40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.21.13.19) port 443 (#23))
+[2020.03.12-01.17.05:666][736]LogHttp: Warning: 000001F55BD9CF40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.03.12-01.17.05:666][736]LogHttp: Warning: 000001F55BD9CF40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.03.12-01.17.05:666][736]LogHttp: Warning: 000001F55BD9CF40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.03.12-01.17.05:666][736]LogHttp: Warning: 000001F55BD9CF40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.03.12-01.17.05:666][736]LogHttp: Warning: 000001F55BD9CF40: libcurl info message cache 7 (Closing connection 23)
+[2020.03.12-01.17.05:666][736]LogHttp: Warning: 000001F55BD9CF40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.03.12-01.17.05:666][736]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6BD54ACB-43AD-3151-44C2-A3A6BFDB66EB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f7ef13bb46c4fcb69a7ce4bdbd33d8fa%7C3847e54605594d48b03aae1fe88b15b0%7C4466b361-ff5c-4fff-b9b2-d7318607d7b8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.12-01.37.08:964][825]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.03.12-01.37.08:964][825]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MY/0Map/MyMap' took 0.045
+[2020.03.12-01.37.08:965][825]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MY/5BP/BP_Monster] ([1] browsable assets)...
+[2020.03.12-01.37.08:965][825]OBJ SavePackage: Finished generating thumbnails for package [/Game/MY/5BP/BP_Monster]
+[2020.03.12-01.37.09:004][825]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_Monster_Auto4F668D94346A1E21B4C27C29E0DFC800A.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/Autosaves/Game/MY/5BP/BP_Monster_Auto4.uasset'
+[2020.03.12-01.37.09:004][825]LogFileHelpers: Auto-saving content packages took 0.039
+[2020.03.12-01.38.11:106][244]BlueprintLog: New page: BP_Monster 컴파일
+[2020.03.12-01.38.11:319][244]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.03.12-01.38.11:349][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset" SILENT=true
+[2020.03.12-01.38.11:379][244]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_Monster89A1C69B4E1C09845BD1E7A87E03A238.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset'
+[2020.03.12-01.38.12:089][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset" SILENT=true
+[2020.03.12-01.38.12:118][323]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_MonsterE6FF15A045F4CC976C8CA1B9E456C25E.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset'
+[2020.03.12-01.40.20:811][688]BlueprintLog: New page: BP_Monster 컴파일
+[2020.03.12-01.40.21:030][688]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.03.12-01.40.21:060][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset" SILENT=true
+[2020.03.12-01.40.21:091][688]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_Monster445C5FC84E82E26DB183808B22CA1017.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset'
+[2020.03.12-01.40.55:353][781]BlueprintLog: New page: BP_Monster 컴파일
+[2020.03.12-01.40.55:566][781]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.03.12-01.40.55:597][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset" SILENT=true
+[2020.03.12-01.40.55:629][781]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_Monster93CD184F46F766164DF794831C7AE2DF.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset'
+[2020.03.12-01.42.43:184][634]BlueprintLog: New page: BP_Monster 컴파일
+[2020.03.12-01.42.43:412][634]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.03.12-01.42.43:444][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset" SILENT=true
+[2020.03.12-01.42.43:477][634]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_Monster41657D3844A1D468806B5FBEB9191C13.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset'
+[2020.03.12-01.43.17:061][652]BlueprintLog: New page: BP_Monster 컴파일
+[2020.03.12-01.43.17:269][652]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.03.12-01.43.17:300][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset" SILENT=true
+[2020.03.12-01.43.17:333][652]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_Monster37D67A814597FF070BDDFA88B1BF8F9B.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset'
+[2020.03.12-01.43.33:205][546]BlueprintLog: New page: BP_Monster 컴파일
+[2020.03.12-01.43.33:421][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.03.12-01.43.33:454][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset" SILENT=true
+[2020.03.12-01.43.33:485][546]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_MonsterD9000386486DFA64BB8BEE97E8052B42.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset'
+[2020.03.12-01.45.27:458][107]LogEditorTransaction: Undo 노드 이동
+[2020.03.12-01.45.27:541][107]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.12-01.46.29:158][448]BlueprintLog: New page: BP_Monster 컴파일
+[2020.03.12-01.46.29:383][448]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.03.12-01.46.29:415][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset" SILENT=true
+[2020.03.12-01.46.29:451][448]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_Monster6A061BDC4C9D15B6A8665C90221B7FFE.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset'
+[2020.03.12-01.47.03:759][551]BlueprintLog: New page: BP_Monster 컴파일
+[2020.03.12-01.47.03:975][551]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.03.12-01.47.04:009][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset" SILENT=true
+[2020.03.12-01.47.04:045][551]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_Monster27AD5DC144E5A44A05A1B6A3EB8FE24F.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset'
+[2020.03.12-01.47.29:414][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-01.48.20:359][607]BlueprintLog: New page: BP_Monster 컴파일
+[2020.03.12-01.48.20:578][607]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.03.12-01.48.20:611][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset" SILENT=true
+[2020.03.12-01.48.20:649][607]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_MonsterBCFF74E54C0562E4B460BEAFC784B5E5.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset'
+[2020.03.12-01.48.21:106][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_Monster" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset" SILENT=true
+[2020.03.12-01.48.21:144][656]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_Monster3D15004F4DA4A640E970EF9A2F9406C5.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_Monster.uasset'
+[2020.03.12-01.48.27:645][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Ground_Flat_01)
+[2020.03.12-01.48.36:933][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-01.48.45:088][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-01.48.58:682][879]LogEditorViewport: Clicking Background
+[2020.03.12-01.49.04:225][538]LogEditorViewport: Clicking on Actor (LMB): BP_Slime_C (BP_Slime)
+[2020.03.12-01.49.05:487][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Ground_Flat_01)
+[2020.03.12-01.49.07:446][913]LogEditorViewport: Clicking Background
+[2020.03.12-01.49.09:436][146]LogEditorViewport: Clicking on Actor (LMB): BP_MyPlayer_C (BP_MyPlayer)
+[2020.03.12-01.49.10:768][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Ground_Flat_2)
+[2020.03.12-01.49.11:821][407]LogEditorViewport: Clicking Background
+[2020.03.12-01.49.17:542][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-01.49.17:666][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/0Map/MyMap" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.12-01.49.17:709][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.03.12-01.49.17:742][102]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] 사용 중인  Get Coin  핀은 더 이상  OnPlayerGetCoin  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.03.12-01.49.17:744][102]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] OnPlayerGetCoin  시그너처 오류: 선택된 함수/이벤트를 찾을 수 없습니다: 'OnPlayerGetCoin' - 지워졌나요?
+[2020.03.12-01.49.17:971][102]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MyMap642E176C43B2B7395B6FD39FC85B9EDA.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap'
+[2020.03.12-01.49.18:006][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/0Map/MyMap_BuiltData" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap_BuiltData.uasset" SILENT=true
+[2020.03.12-01.49.18:029][102]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MyMap_BuiltData55B12C2C4EF61E8F0ABB53A5035EDDC9.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap_BuiltData.uasset'
+[2020.03.12-01.49.21:138][472]LogEditorViewport: Clicking Background
+[2020.03.12-01.49.45:443][414]LogEditorViewport: Clicking on Actor (LMB): BP_Slime_C (BP_Slime)
+[2020.03.12-01.49.54:687][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PolygonPrototype_Buildings_Block_1x1_01P_SM_PolygonPrototype_Buildings_Block_1x1_01P3)
+[2020.03.12-01.49.55:729][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Ground_Flat_2)
+[2020.03.12-01.50.04:220][513]LogEditorViewport: Clicking on Actor (LMB): BP_MyPlayer_C (BP_MyPlayer)
+[2020.03.12-01.50.11:298][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-01.50.11:591][287]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MY/5BP/BP_MyPlayer.BP_MyPlayer
+[2020.03.12-01.50.34:995][663]LogEditorTransaction: Undo 회전 설정
+[2020.03.12-01.50.35:035][663]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_28:PersistentLevel.BP_MyPlayer_C_0.CollisionCylinder) Component already registered.
+[2020.03.12-01.50.35:117][663]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.12-01.50.47:990][865]LogEditorViewport: Clicking on Actor (LMB): BP_Slime_C (BP_Slime)
+[2020.03.12-01.50.58:057][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-01.51.19:458][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-01.51.33:517][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-01.51.37:983][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/0Map/MyMap" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.12-01.51.38:029][686]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.03.12-01.51.38:057][686]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] 사용 중인  Get Coin  핀은 더 이상  OnPlayerGetCoin  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.03.12-01.51.38:060][686]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] OnPlayerGetCoin  시그너처 오류: 선택된 함수/이벤트를 찾을 수 없습니다: 'OnPlayerGetCoin' - 지워졌나요?
+[2020.03.12-01.51.38:295][686]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MyMap84DCBF64462F47169BB96591C80BE4D1.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap'
+[2020.03.12-01.51.38:327][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/0Map/MyMap_BuiltData" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap_BuiltData.uasset" SILENT=true
+[2020.03.12-01.51.38:350][686]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MyMap_BuiltDataDA31A7364F69B5EFBC86818FFA20FB83.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap_BuiltData.uasset'
+[2020.03.12-01.51.46:781][640]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.03.12-01.51.46:798][640]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.12-01.51.46:798][640]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2020.03.12-01.51.46:806][640]LogPlayLevel: [PlayLevel] Compiling BP_MyPlayer before play...
+[2020.03.12-01.51.47:008][640]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2020.03.12-01.51.47:011][640]LogPlayLevel: [PlayLevel] Compiling MyMap before play...
+[2020.03.12-01.51.47:015][640]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] 사용 중인  Get Coin  핀은 더 이상  OnPlayerGetCoin  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.03.12-01.51.47:016][640]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] OnPlayerGetCoin  시그너처 오류: 선택된 함수/이벤트를 찾을 수 없습니다: 'OnPlayerGetCoin' - 지워졌나요?
+[2020.03.12-01.51.47:223][640]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.03.12-01.51.47:223][640]LogPlayLevel: PlayLevel: Blueprint regeneration took 424 ms (3 blueprints)
+[2020.03.12-01.51.47:223][640]BlueprintLog: Warning: {Name} 블루프린트 컴파일에 실패했습니다. MyMap
+[2020.03.12-01.51.47:237][640]LogCustomDialog: Dialog displayed:
+[2020.03.12-01.51.47:240][640]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.03.12-01.51.51:016][640]LogSlate: Window '블루프린트 컴파일 오류' being destroyed
+[2020.03.12-01.51.52:854][836]LogSlate: Window '메시지 로그' being destroyed
+[2020.03.12-01.51.52:860][836]LogSlate: Window '메시지 로그' being destroyed
+[2020.03.12-01.51.56:667][284]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap
+[2020.03.12-01.52.02:001][856]BlueprintLog: New page: MyMap 컴파일
+[2020.03.12-01.52.02:006][856]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] 사용 중인  Get Coin  핀은 더 이상  OnPlayerGetCoin  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.03.12-01.52.02:007][856]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] OnPlayerGetCoin  시그너처 오류: 선택된 함수/이벤트를 찾을 수 없습니다: 'OnPlayerGetCoin' - 지워졌나요?
+[2020.03.12-01.52.02:213][856]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.03.12-01.52.42:941][409]BlueprintLog: New page: BP_MyPlayer 컴파일
+[2020.03.12-01.52.43:187][409]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.03.12-01.52.43:244][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_MyPlayer" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_MyPlayer.uasset" SILENT=true
+[2020.03.12-01.52.43:306][409]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_MyPlayer3468A6DE468A95CFBD18648D5C18DD8C.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_MyPlayer.uasset'
+[2020.03.12-01.52.45:465][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/0Map/MyMap" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.12-01.52.45:511][631]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.03.12-01.52.45:537][631]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] 사용 중인  Get Coin  핀은 더 이상  OnPlayerGetCoin  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.03.12-01.52.45:539][631]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] OnPlayerGetCoin  시그너처 오류: 선택된 함수/이벤트를 찾을 수 없습니다: 'OnPlayerGetCoin' - 지워졌나요?
+[2020.03.12-01.52.45:779][631]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MyMapDE82DB3640E1DB56CEB6BF9A69E8CBCA.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap'
+[2020.03.12-01.52.45:814][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/0Map/MyMap_BuiltData" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap_BuiltData.uasset" SILENT=true
+[2020.03.12-01.52.45:838][631]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MyMap_BuiltData149FCE864EC1FA2A3183408C379D3704.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap_BuiltData.uasset'
+[2020.03.12-01.52.48:517][945]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.03.12-01.52.48:533][945]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.12-01.52.48:533][945]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2020.03.12-01.52.48:533][945]LogPlayLevel: [PlayLevel] Compiling MyMap before play...
+[2020.03.12-01.52.48:537][945]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] 사용 중인  Get Coin  핀은 더 이상  OnPlayerGetCoin  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.03.12-01.52.48:539][945]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] OnPlayerGetCoin  시그너처 오류: 선택된 함수/이벤트를 찾을 수 없습니다: 'OnPlayerGetCoin' - 지워졌나요?
+[2020.03.12-01.52.48:747][945]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.03.12-01.52.48:747][945]LogPlayLevel: PlayLevel: Blueprint regeneration took 214 ms (1 blueprints)
+[2020.03.12-01.52.48:747][945]BlueprintLog: Warning: {Name} 블루프린트 컴파일에 실패했습니다. MyMap
+[2020.03.12-01.52.48:747][945]LogCustomDialog: Dialog displayed:
+[2020.03.12-01.52.50:202][945]LogSlate: Window '블루프린트 컴파일 오류' being destroyed
+[2020.03.12-01.52.50:207][945]PIE: New page: PIE 세션: MyMap (2020. 3. 12. 오후 7:52:50)
+[2020.03.12-01.52.50:208][945]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.12-01.52.50:209][945]LogPlayLevel: Creating play world package: /Game/MY/0Map/UEDPIE_0_MyMap
+[2020.03.12-01.52.50:217][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007833s)
+[2020.03.12-01.52.50:218][945]LogAIModule: Creating AISystem for world MyMap
+[2020.03.12-01.52.50:218][945]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2020.03.12-01.52.50:218][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MY/0Map/MyMap.MyMap to /Game/MY/0Map/UEDPIE_0_MyMap.MyMap (0.009164s)
+[2020.03.12-01.52.50:256][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.03.12-01.52.50:268][945]LogLoad: Game class is 'GameModeBase'
+[2020.03.12-01.52.50:271][945]LogWorld: Bringing World /Game/MY/0Map/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2020.03.12-10.52.50
+[2020.03.12-01.52.50:272][945]LogWorld: Bringing up level for play took: 0.003042
+[2020.03.12-01.52.50:272][945]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.03.12-01.52.50:283][945]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.03.12-01.52.50:284][945]PIE: /Game/MY/0Map/UEDPIE_0_MyMap 에 대한 에디터에서 플레이 시작 시간: 2.301
+[2020.03.12-01.52.50:284][945]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.12-01.52.51:911][ 92]LogBlueprintUserMessages: [BP_Slime_2] X=514.991 Y=350.000 Z=140.000에 가려고 생각함
+[2020.03.12-01.53.08:127][ 25]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.12-01.53.08:127][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-01.53.08:127][ 25]LogWorld: BeginTearingDown for /Game/MY/0Map/UEDPIE_0_MyMap
+[2020.03.12-01.53.08:127][ 25]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-01.53.08:161][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.12-01.53.08:162][ 25]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MY/0Map/MyMap.MyMap:PersistentLevel' has LevelScriptBlueprint '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap' with GeneratedClass '/Game/MY/0Map/MyMap.MyMap_C' with ClassGeneratedBy '/Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap'
+[2020.03.12-01.53.08:233][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-01.53.08:261][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.03.12-01.53.08:283][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.03.12-01.53.12:438][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-01.53.16:719][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/0Map/MyMap" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.12-01.53.16:769][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.03.12-01.53.16:795][ 29]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] 사용 중인  Get Coin  핀은 더 이상  OnPlayerGetCoin  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2020.03.12-01.53.16:797][ 29]LogBlueprint: Error: [Compiler PersistentLevel.MyMap] OnPlayerGetCoin  시그너처 오류: 선택된 함수/이벤트를 찾을 수 없습니다: 'OnPlayerGetCoin' - 지워졌나요?
+[2020.03.12-01.53.17:082][ 29]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/MyMap7B0FB68646C5A70D9CB6BAB8E5D8363E.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/0Map/MyMap.umap'
+[2020.03.12-01.53.17:116][ 29]LogFileHelpers: Saving map 'MyMap' took 0.397
+[2020.03.12-01.53.18:653][207]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-01.53.21:657][557]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-01.54.51:760][199]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/MY/0Map/MyMap.MyMap:PersistentLevel.MyMap
+[2020.03.12-01.55.54:596][618]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MY/5BP/BP_MyPlayer.BP_MyPlayer
+[2020.03.12-01.56.37:864][732]BlueprintLog: New page: BP_MyPlayer 컴파일
+[2020.03.12-01.56.38:162][732]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2020.03.12-01.56.38:219][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY/5BP/BP_MyPlayer" FILE="../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_MyPlayer.uasset" SILENT=true
+[2020.03.12-01.56.38:284][732]LogSavePackage: Moving '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Saved/BP_MyPlayer92ECE7834BAFB6DDC38AD08343A0D054.tmp' to '../../../../../../Users/student/Documents/Unreal Projects/MyGame/Content/MY/5BP/BP_MyPlayer.uasset'
+[2020.03.12-01.56.40:742][ 14]LogUObjectArray: Warning: Empty slot
+[2020.03.12-01.56.40:762][ 14]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.12-01.56.42:327][ 14]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.565 s
+[2020.03.12-01.56.42:327][ 14]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.12-01.56.42:327][ 14]LogOutputDevice: Error: 
+[2020.03.12-01.56.42:327][ 14]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2020.03.12-01.56.42:327][ 14]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.03.12-01.56.42:327][ 14]LogOutputDevice: Error: Stack: 
+[2020.03.12-01.56.42:327][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd31d25279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.12-01.56.42:327][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd31547fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd3155622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd2f656c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd288b4dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd2886e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd3297d644 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd32b6c533 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd329c922b UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd329a5738 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd32999a1e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd328b4c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd328a26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd328b7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd3289edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd70ab681d USER32.dll!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd70ab6212 USER32.dll!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd328b88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff6dec26980 UE4Editor.exe!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff6dec3a91c UE4Editor.exe!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff6dec3a9fa UE4Editor.exe!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff6dec4b92c UE4Editor.exe!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff6dec4e60e UE4Editor.exe!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd701c7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: [Callstack] 0x00007ffd7150ce71 ntdll.dll!UnknownFunction []
+[2020.03.12-01.56.42:328][ 14]LogOutputDevice: Error: 
+[2020.03.12-01.56.42:355][ 14]LogStats:                SubmitErrorReport -  0.000 s
